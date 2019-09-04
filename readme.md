@@ -5,6 +5,7 @@ Petstore API in Laravel:
 
 
 ##Server Requirements
+
 - PHP >= 7.1.3
 - BCMath PHP Extension
 - Ctype PHP Extension
@@ -17,6 +18,7 @@ Petstore API in Laravel:
 
 
 ##Installing Laravel
+
  - Download from git.
  - Open commend terminal
  - Go to project root (cd petshore).
@@ -31,6 +33,7 @@ host: localhost::8000
   ​base_url + /pet/add
 
 #Input field
+
     - Pet id
     - Pet name
     - Category Id
@@ -41,9 +44,11 @@ host: localhost::8000
 
 
 ##Update an existing pet
+
    base_url + /pet/update
 
 #Input field
+
     - Pet id
     - Pet name
     - Category Id
@@ -54,6 +59,7 @@ host: localhost::8000
 
 
 ##Finds Pets by status
+
  base_url + /pet/findByStatus
 
 #Input field
@@ -63,11 +69,13 @@ host: localhost::8000
 ##Find pet by ID
  
 #Input field
+
     - Pet id
 
 ##Updates a pet in the store with form data
 
 #Input field
+
     - Pet id
     - Pet name
     - Status
@@ -76,6 +84,7 @@ host: localhost::8000
 ##Delete an existing pet
 
 #Input field
+
     - api_key (You can use any api_key like: 123 or 145 or 4758 etc)
     - Pet id
 
