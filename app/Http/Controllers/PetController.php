@@ -127,17 +127,14 @@ class PetController extends Controller {
 
 
         $headers = array();
-        $headers[] = 'Accept: application/json';
+        $headers[] = 'Accept: application/xml';
         $headers[] = 'Api_key: 1';
         curl_setopt($ch, CURLOPT_HTTPHEADER, $headers);
 
         $result = curl_exec($ch);
 
-        if (curl_errno($ch)) {
-            echo 'Error:' . curl_error($ch);
-        }
-
         $httpcode = curl_getinfo($ch, CURLINFO_HTTP_CODE);
+
 
         curl_close($ch);
 

@@ -20,5 +20,5 @@ Route::prefix('pet')->group(function () {
     Route::post('updateByFormData', 'PetController@saveFormData');
 
     Route::get('delete', 'PetController@delete');
-    Route::delete('delete', 'PetController@detailsPet');
+    Route::POST('delete', 'PetController@detailsPet');
 });

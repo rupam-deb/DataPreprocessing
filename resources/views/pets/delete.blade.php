@@ -18,20 +18,20 @@
             <div class="col-md-3">
                 <div class="form-group">
                     <label for="id">petId:</label>
-                    <input type="number" class="form-control" name="id" required>
+                    <input type="number" class="form-control" name="id" min="1" required>
                 </div>
             </div>
 
             <div class="col-md-3">
                 <div class="form-group">
                     <label for="tags_id">&nbsp; &nbsp;</label>
-                    <button type="submit" id="submit" class="btn btn-success" style="width: 100%" onclick="return confirm('Are you Sure??\nYou Want to Delete this item!');">Delete</button>
+                    <button type="submit" id="submit" class="btn btn-success" style="width: 100%" onclick="return confirm('Are you Sure to Delete?');">Delete</button>
                 </div>
             </div>
         </div>
     </form>
     <br/>
-    <h3>Delete Data Output:</h3>
+    <h3>Output:</h3>
     <div id="item-list">
 
     </div>
@@ -45,7 +45,7 @@
         e.preventDefault();
 
         $.ajax({
-            type: "DELETE",
+            type: "POST",
             url: base_url + '/pet/delete',
             data: formData,
             dataType: "json",
@@ -53,13 +53,13 @@
             contentType: false,
             success: function (response) {
                 if (response.status == 200) {
-                    $('#item-list').html('<div class="alert alert-success" role="alert">Update Success!!</div>');
+                    $('#item-list').html('<div class="alert alert-success" role="alert">Delete Success!!</div>');
                 } else {
-                    $('#item-list').html('<div class="alert alert-danger" role="alert">Data not found!!</div>');
+                    $('#item-list').html('<div class="alert alert-danger" role="alert">Pet not found!!</div>');
                 }
             },
             error: function (xhr, err) {
-                $('#item-list').html('<div class="alert alert-danger" role="alert">Data not found!!</div>');
+                $('#item-list').html('<div class="alert alert-danger" role="alert">Pet not found!!</div>');
             }
         });
     });
