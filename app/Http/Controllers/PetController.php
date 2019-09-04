@@ -82,22 +82,13 @@ class PetController extends Controller {
         if ($request->status) {
 
             $response = $this->callAPI('GET', $this->url . 'findByStatus?status=' . $request->status);
-            $response = json_decode($response);
+            
+            $response = $response['data'];
         }
 
         return view('pets.find_by_status', compact('response'));
     }
 
-    public function getByStatus(Request $request) {
-        $response = [];
-
-        if ($request->status) {
-
-            $response = $this->callAPI('GET', $this->url . 'findByStatus?status=' . $request->status);
-        }
-
-        return $response;
-    }
 
     public function find() {
 
