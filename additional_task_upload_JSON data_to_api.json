@@ -1,0 +1,7322 @@
+[
+ {
+   "utc_timestamp": "2019-06-01 00:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.36
+ },
+ {
+   "utc_timestamp": "2019-06-01 01:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.36
+ },
+ {
+   "utc_timestamp": "2019-06-01 02:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.36
+ },
+ {
+   "utc_timestamp": "2019-06-01 03:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.36
+ },
+ {
+   "utc_timestamp": "2019-06-01 04:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.36
+ },
+ {
+   "utc_timestamp": "2019-06-01 05:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.36
+ },
+ {
+   "utc_timestamp": "2019-06-01 06:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.36
+ },
+ {
+   "utc_timestamp": "2019-06-01 07:00:00+00:00",
+   "solar_ws": 20.395,
+   "solar_bom": 14.36
+ },
+ {
+   "utc_timestamp": "2019-06-01 08:00:00+00:00",
+   "solar_ws": 224.605,
+   "solar_bom": 14.36
+ },
+ {
+   "utc_timestamp": "2019-06-01 09:00:00+00:00",
+   "solar_ws": 305.625,
+   "solar_bom": 14.36
+ },
+ {
+   "utc_timestamp": "2019-06-01 10:00:00+00:00",
+   "solar_ws": 353.42,
+   "solar_bom": 14.36
+ },
+ {
+   "utc_timestamp": "2019-06-01 11:00:00+00:00",
+   "solar_ws": 363.6,
+   "solar_bom": 14.36
+ },
+ {
+   "utc_timestamp": "2019-06-01 12:00:00+00:00",
+   "solar_ws": 327.3,
+   "solar_bom": 14.36
+ },
+ {
+   "utc_timestamp": "2019-06-01 13:00:00+00:00",
+   "solar_ws": 185.215,
+   "solar_bom": 14.36
+ },
+ {
+   "utc_timestamp": "2019-06-01 14:00:00+00:00",
+   "solar_ws": 130.135,
+   "solar_bom": 14.36
+ },
+ {
+   "utc_timestamp": "2019-06-01 15:00:00+00:00",
+   "solar_ws": 90.91,
+   "solar_bom": 14.36
+ },
+ {
+   "utc_timestamp": "2019-06-01 16:00:00+00:00",
+   "solar_ws": 34.77,
+   "solar_bom": 14.36
+ },
+ {
+   "utc_timestamp": "2019-06-01 17:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.36
+ },
+ {
+   "utc_timestamp": "2019-06-01 18:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.36
+ },
+ {
+   "utc_timestamp": "2019-06-01 19:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.36
+ },
+ {
+   "utc_timestamp": "2019-06-01 20:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.36
+ },
+ {
+   "utc_timestamp": "2019-06-01 21:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.36
+ },
+ {
+   "utc_timestamp": "2019-06-01 22:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.36
+ },
+ {
+   "utc_timestamp": "2019-06-01 23:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.36
+ },
+ {
+   "utc_timestamp": "2019-06-02 00:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 10.06
+ },
+ {
+   "utc_timestamp": "2019-06-02 01:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 10.06
+ },
+ {
+   "utc_timestamp": "2019-06-02 02:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 10.06
+ },
+ {
+   "utc_timestamp": "2019-06-02 03:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 10.06
+ },
+ {
+   "utc_timestamp": "2019-06-02 04:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 10.06
+ },
+ {
+   "utc_timestamp": "2019-06-02 05:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 10.06
+ },
+ {
+   "utc_timestamp": "2019-06-02 06:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 10.06
+ },
+ {
+   "utc_timestamp": "2019-06-02 07:00:00+00:00",
+   "solar_ws": 26.7,
+   "solar_bom": 10.06
+ },
+ {
+   "utc_timestamp": "2019-06-02 08:00:00+00:00",
+   "solar_ws": 256.32,
+   "solar_bom": 10.06
+ },
+ {
+   "utc_timestamp": "2019-06-02 09:00:00+00:00",
+   "solar_ws": 164.775,
+   "solar_bom": 10.06
+ },
+ {
+   "utc_timestamp": "2019-06-02 10:00:00+00:00",
+   "solar_ws": 153.03,
+   "solar_bom": 10.06
+ },
+ {
+   "utc_timestamp": "2019-06-02 11:00:00+00:00",
+   "solar_ws": 413.49,
+   "solar_bom": 10.06
+ },
+ {
+   "utc_timestamp": "2019-06-02 12:00:00+00:00",
+   "solar_ws": 248.4,
+   "solar_bom": 10.06
+ },
+ {
+   "utc_timestamp": "2019-06-02 13:00:00+00:00",
+   "solar_ws": 99.455,
+   "solar_bom": 10.06
+ },
+ {
+   "utc_timestamp": "2019-06-02 14:00:00+00:00",
+   "solar_ws": 95.08,
+   "solar_bom": 10.06
+ },
+ {
+   "utc_timestamp": "2019-06-02 15:00:00+00:00",
+   "solar_ws": 82.12,
+   "solar_bom": 10.06
+ },
+ {
+   "utc_timestamp": "2019-06-02 16:00:00+00:00",
+   "solar_ws": 32.035,
+   "solar_bom": 10.06
+ },
+ {
+   "utc_timestamp": "2019-06-02 17:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 10.06
+ },
+ {
+   "utc_timestamp": "2019-06-02 18:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 10.06
+ },
+ {
+   "utc_timestamp": "2019-06-02 19:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 10.06
+ },
+ {
+   "utc_timestamp": "2019-06-02 20:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 10.06
+ },
+ {
+   "utc_timestamp": "2019-06-02 21:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 10.06
+ },
+ {
+   "utc_timestamp": "2019-06-02 22:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 10.06
+ },
+ {
+   "utc_timestamp": "2019-06-02 23:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 10.06
+ },
+ {
+   "utc_timestamp": "2019-06-03 00:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 13.89
+ },
+ {
+   "utc_timestamp": "2019-06-03 01:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 13.89
+ },
+ {
+   "utc_timestamp": "2019-06-03 02:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 13.89
+ },
+ {
+   "utc_timestamp": "2019-06-03 03:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 13.89
+ },
+ {
+   "utc_timestamp": "2019-06-03 04:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 13.89
+ },
+ {
+   "utc_timestamp": "2019-06-03 05:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 13.89
+ },
+ {
+   "utc_timestamp": "2019-06-03 06:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 13.89
+ },
+ {
+   "utc_timestamp": "2019-06-03 07:00:00+00:00",
+   "solar_ws": 33.76,
+   "solar_bom": 13.89
+ },
+ {
+   "utc_timestamp": "2019-06-03 08:00:00+00:00",
+   "solar_ws": 283.13,
+   "solar_bom": 13.89
+ },
+ {
+   "utc_timestamp": "2019-06-03 09:00:00+00:00",
+   "solar_ws": 313.995,
+   "solar_bom": 13.89
+ },
+ {
+   "utc_timestamp": "2019-06-03 10:00:00+00:00",
+   "solar_ws": 349.86,
+   "solar_bom": 13.89
+ },
+ {
+   "utc_timestamp": "2019-06-03 11:00:00+00:00",
+   "solar_ws": 370.21,
+   "solar_bom": 13.89
+ },
+ {
+   "utc_timestamp": "2019-06-03 12:00:00+00:00",
+   "solar_ws": 318.42,
+   "solar_bom": 13.89
+ },
+ {
+   "utc_timestamp": "2019-06-03 13:00:00+00:00",
+   "solar_ws": 222.61,
+   "solar_bom": 13.89
+ },
+ {
+   "utc_timestamp": "2019-06-03 14:00:00+00:00",
+   "solar_ws": 180.025,
+   "solar_bom": 13.89
+ },
+ {
+   "utc_timestamp": "2019-06-03 15:00:00+00:00",
+   "solar_ws": 72.57,
+   "solar_bom": 13.89
+ },
+ {
+   "utc_timestamp": "2019-06-03 16:00:00+00:00",
+   "solar_ws": 35.035,
+   "solar_bom": 13.89
+ },
+ {
+   "utc_timestamp": "2019-06-03 17:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 13.89
+ },
+ {
+   "utc_timestamp": "2019-06-03 18:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 13.89
+ },
+ {
+   "utc_timestamp": "2019-06-03 19:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 13.89
+ },
+ {
+   "utc_timestamp": "2019-06-03 20:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 13.89
+ },
+ {
+   "utc_timestamp": "2019-06-03 21:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 13.89
+ },
+ {
+   "utc_timestamp": "2019-06-03 22:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 13.89
+ },
+ {
+   "utc_timestamp": "2019-06-03 23:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 13.89
+ },
+ {
+   "utc_timestamp": "2019-06-04 00:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.6
+ },
+ {
+   "utc_timestamp": "2019-06-04 01:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.6
+ },
+ {
+   "utc_timestamp": "2019-06-04 02:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.6
+ },
+ {
+   "utc_timestamp": "2019-06-04 03:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.6
+ },
+ {
+   "utc_timestamp": "2019-06-04 04:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.6
+ },
+ {
+   "utc_timestamp": "2019-06-04 05:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.6
+ },
+ {
+   "utc_timestamp": "2019-06-04 06:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.6
+ },
+ {
+   "utc_timestamp": "2019-06-04 07:00:00+00:00",
+   "solar_ws": 22.27,
+   "solar_bom": 14.6
+ },
+ {
+   "utc_timestamp": "2019-06-04 08:00:00+00:00",
+   "solar_ws": 236.365,
+   "solar_bom": 14.6
+ },
+ {
+   "utc_timestamp": "2019-06-04 09:00:00+00:00",
+   "solar_ws": 298.56,
+   "solar_bom": 14.6
+ },
+ {
+   "utc_timestamp": "2019-06-04 10:00:00+00:00",
+   "solar_ws": 337.86,
+   "solar_bom": 14.6
+ },
+ {
+   "utc_timestamp": "2019-06-04 11:00:00+00:00",
+   "solar_ws": 340.4,
+   "solar_bom": 14.6
+ },
+ {
+   "utc_timestamp": "2019-06-04 12:00:00+00:00",
+   "solar_ws": 296.945,
+   "solar_bom": 14.6
+ },
+ {
+   "utc_timestamp": "2019-06-04 13:00:00+00:00",
+   "solar_ws": 209.81,
+   "solar_bom": 14.6
+ },
+ {
+   "utc_timestamp": "2019-06-04 14:00:00+00:00",
+   "solar_ws": 166.335,
+   "solar_bom": 14.6
+ },
+ {
+   "utc_timestamp": "2019-06-04 15:00:00+00:00",
+   "solar_ws": 74.65,
+   "solar_bom": 14.6
+ },
+ {
+   "utc_timestamp": "2019-06-04 16:00:00+00:00",
+   "solar_ws": 31.7,
+   "solar_bom": 14.6
+ },
+ {
+   "utc_timestamp": "2019-06-04 17:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.6
+ },
+ {
+   "utc_timestamp": "2019-06-04 18:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.6
+ },
+ {
+   "utc_timestamp": "2019-06-04 19:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.6
+ },
+ {
+   "utc_timestamp": "2019-06-04 20:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.6
+ },
+ {
+   "utc_timestamp": "2019-06-04 21:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.6
+ },
+ {
+   "utc_timestamp": "2019-06-04 22:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.6
+ },
+ {
+   "utc_timestamp": "2019-06-04 23:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.6
+ },
+ {
+   "utc_timestamp": "2019-06-05 00:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.19
+ },
+ {
+   "utc_timestamp": "2019-06-05 01:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.19
+ },
+ {
+   "utc_timestamp": "2019-06-05 02:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.19
+ },
+ {
+   "utc_timestamp": "2019-06-05 03:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.19
+ },
+ {
+   "utc_timestamp": "2019-06-05 04:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.19
+ },
+ {
+   "utc_timestamp": "2019-06-05 05:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.19
+ },
+ {
+   "utc_timestamp": "2019-06-05 06:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.19
+ },
+ {
+   "utc_timestamp": "2019-06-05 07:00:00+00:00",
+   "solar_ws": 24.64,
+   "solar_bom": 14.19
+ },
+ {
+   "utc_timestamp": "2019-06-05 08:00:00+00:00",
+   "solar_ws": 241.54,
+   "solar_bom": 14.19
+ },
+ {
+   "utc_timestamp": "2019-06-05 09:00:00+00:00",
+   "solar_ws": 320.875,
+   "solar_bom": 14.19
+ },
+ {
+   "utc_timestamp": "2019-06-05 10:00:00+00:00",
+   "solar_ws": 363.1,
+   "solar_bom": 14.19
+ },
+ {
+   "utc_timestamp": "2019-06-05 11:00:00+00:00",
+   "solar_ws": 369.27,
+   "solar_bom": 14.19
+ },
+ {
+   "utc_timestamp": "2019-06-05 12:00:00+00:00",
+   "solar_ws": 323.56,
+   "solar_bom": 14.19
+ },
+ {
+   "utc_timestamp": "2019-06-05 13:00:00+00:00",
+   "solar_ws": 213.99,
+   "solar_bom": 14.19
+ },
+ {
+   "utc_timestamp": "2019-06-05 14:00:00+00:00",
+   "solar_ws": 229.615,
+   "solar_bom": 14.19
+ },
+ {
+   "utc_timestamp": "2019-06-05 15:00:00+00:00",
+   "solar_ws": 95.01,
+   "solar_bom": 14.19
+ },
+ {
+   "utc_timestamp": "2019-06-05 16:00:00+00:00",
+   "solar_ws": 44.385,
+   "solar_bom": 14.19
+ },
+ {
+   "utc_timestamp": "2019-06-05 17:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.19
+ },
+ {
+   "utc_timestamp": "2019-06-05 18:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.19
+ },
+ {
+   "utc_timestamp": "2019-06-05 19:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.19
+ },
+ {
+   "utc_timestamp": "2019-06-05 20:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.19
+ },
+ {
+   "utc_timestamp": "2019-06-05 21:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.19
+ },
+ {
+   "utc_timestamp": "2019-06-05 22:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.19
+ },
+ {
+   "utc_timestamp": "2019-06-05 23:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.19
+ },
+ {
+   "utc_timestamp": "2019-06-06 00:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 12.9
+ },
+ {
+   "utc_timestamp": "2019-06-06 01:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 12.9
+ },
+ {
+   "utc_timestamp": "2019-06-06 02:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 12.9
+ },
+ {
+   "utc_timestamp": "2019-06-06 03:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 12.9
+ },
+ {
+   "utc_timestamp": "2019-06-06 04:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 12.9
+ },
+ {
+   "utc_timestamp": "2019-06-06 05:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 12.9
+ },
+ {
+   "utc_timestamp": "2019-06-06 06:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 12.9
+ },
+ {
+   "utc_timestamp": "2019-06-06 07:00:00+00:00",
+   "solar_ws": 33.81,
+   "solar_bom": 12.9
+ },
+ {
+   "utc_timestamp": "2019-06-06 08:00:00+00:00",
+   "solar_ws": 248.59,
+   "solar_bom": 12.9
+ },
+ {
+   "utc_timestamp": "2019-06-06 09:00:00+00:00",
+   "solar_ws": 312.45,
+   "solar_bom": 12.9
+ },
+ {
+   "utc_timestamp": "2019-06-06 10:00:00+00:00",
+   "solar_ws": 317.02,
+   "solar_bom": 12.9
+ },
+ {
+   "utc_timestamp": "2019-06-06 11:00:00+00:00",
+   "solar_ws": 269.1,
+   "solar_bom": 12.9
+ },
+ {
+   "utc_timestamp": "2019-06-06 12:00:00+00:00",
+   "solar_ws": 290.485,
+   "solar_bom": 12.9
+ },
+ {
+   "utc_timestamp": "2019-06-06 13:00:00+00:00",
+   "solar_ws": 157.695,
+   "solar_bom": 12.9
+ },
+ {
+   "utc_timestamp": "2019-06-06 14:00:00+00:00",
+   "solar_ws": 133.405,
+   "solar_bom": 12.9
+ },
+ {
+   "utc_timestamp": "2019-06-06 15:00:00+00:00",
+   "solar_ws": 88.33,
+   "solar_bom": 12.9
+ },
+ {
+   "utc_timestamp": "2019-06-06 16:00:00+00:00",
+   "solar_ws": 48.24,
+   "solar_bom": 12.9
+ },
+ {
+   "utc_timestamp": "2019-06-06 17:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 12.9
+ },
+ {
+   "utc_timestamp": "2019-06-06 18:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 12.9
+ },
+ {
+   "utc_timestamp": "2019-06-06 19:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 12.9
+ },
+ {
+   "utc_timestamp": "2019-06-06 20:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 12.9
+ },
+ {
+   "utc_timestamp": "2019-06-06 21:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 12.9
+ },
+ {
+   "utc_timestamp": "2019-06-06 22:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 12.9
+ },
+ {
+   "utc_timestamp": "2019-06-06 23:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 12.9
+ },
+ {
+   "utc_timestamp": "2019-06-07 00:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 11.51
+ },
+ {
+   "utc_timestamp": "2019-06-07 01:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 11.51
+ },
+ {
+   "utc_timestamp": "2019-06-07 02:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 11.51
+ },
+ {
+   "utc_timestamp": "2019-06-07 03:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 11.51
+ },
+ {
+   "utc_timestamp": "2019-06-07 04:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 11.51
+ },
+ {
+   "utc_timestamp": "2019-06-07 05:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 11.51
+ },
+ {
+   "utc_timestamp": "2019-06-07 06:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 11.51
+ },
+ {
+   "utc_timestamp": "2019-06-07 07:00:00+00:00",
+   "solar_ws": 26.26,
+   "solar_bom": 11.51
+ },
+ {
+   "utc_timestamp": "2019-06-07 08:00:00+00:00",
+   "solar_ws": 231.9,
+   "solar_bom": 11.51
+ },
+ {
+   "utc_timestamp": "2019-06-07 09:00:00+00:00",
+   "solar_ws": 302.94,
+   "solar_bom": 11.51
+ },
+ {
+   "utc_timestamp": "2019-06-07 10:00:00+00:00",
+   "solar_ws": 346.27,
+   "solar_bom": 11.51
+ },
+ {
+   "utc_timestamp": "2019-06-07 11:00:00+00:00",
+   "solar_ws": 385.93,
+   "solar_bom": 11.51
+ },
+ {
+   "utc_timestamp": "2019-06-07 12:00:00+00:00",
+   "solar_ws": 206,
+   "solar_bom": 11.51
+ },
+ {
+   "utc_timestamp": "2019-06-07 13:00:00+00:00",
+   "solar_ws": 103.65,
+   "solar_bom": 11.51
+ },
+ {
+   "utc_timestamp": "2019-06-07 14:00:00+00:00",
+   "solar_ws": 69.725,
+   "solar_bom": 11.51
+ },
+ {
+   "utc_timestamp": "2019-06-07 15:00:00+00:00",
+   "solar_ws": 114.42,
+   "solar_bom": 11.51
+ },
+ {
+   "utc_timestamp": "2019-06-07 16:00:00+00:00",
+   "solar_ws": 35.5,
+   "solar_bom": 11.51
+ },
+ {
+   "utc_timestamp": "2019-06-07 17:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 11.51
+ },
+ {
+   "utc_timestamp": "2019-06-07 18:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 11.51
+ },
+ {
+   "utc_timestamp": "2019-06-07 19:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 11.51
+ },
+ {
+   "utc_timestamp": "2019-06-07 20:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 11.51
+ },
+ {
+   "utc_timestamp": "2019-06-07 21:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 11.51
+ },
+ {
+   "utc_timestamp": "2019-06-07 22:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 11.51
+ },
+ {
+   "utc_timestamp": "2019-06-07 23:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 11.51
+ },
+ {
+   "utc_timestamp": "2019-06-08 00:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 5.53
+ },
+ {
+   "utc_timestamp": "2019-06-08 01:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 5.53
+ },
+ {
+   "utc_timestamp": "2019-06-08 02:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 5.53
+ },
+ {
+   "utc_timestamp": "2019-06-08 03:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 5.53
+ },
+ {
+   "utc_timestamp": "2019-06-08 04:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 5.53
+ },
+ {
+   "utc_timestamp": "2019-06-08 05:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 5.53
+ },
+ {
+   "utc_timestamp": "2019-06-08 06:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 5.53
+ },
+ {
+   "utc_timestamp": "2019-06-08 07:00:00+00:00",
+   "solar_ws": 28.86,
+   "solar_bom": 5.53
+ },
+ {
+   "utc_timestamp": "2019-06-08 08:00:00+00:00",
+   "solar_ws": 50.87,
+   "solar_bom": 5.53
+ },
+ {
+   "utc_timestamp": "2019-06-08 09:00:00+00:00",
+   "solar_ws": 88.13,
+   "solar_bom": 5.53
+ },
+ {
+   "utc_timestamp": "2019-06-08 10:00:00+00:00",
+   "solar_ws": 82.3,
+   "solar_bom": 5.53
+ },
+ {
+   "utc_timestamp": "2019-06-08 11:00:00+00:00",
+   "solar_ws": 106.825,
+   "solar_bom": 5.53
+ },
+ {
+   "utc_timestamp": "2019-06-08 12:00:00+00:00",
+   "solar_ws": 69.155,
+   "solar_bom": 5.53
+ },
+ {
+   "utc_timestamp": "2019-06-08 13:00:00+00:00",
+   "solar_ws": 27.375,
+   "solar_bom": 5.53
+ },
+ {
+   "utc_timestamp": "2019-06-08 14:00:00+00:00",
+   "solar_ws": 25.395,
+   "solar_bom": 5.53
+ },
+ {
+   "utc_timestamp": "2019-06-08 15:00:00+00:00",
+   "solar_ws": 13.13,
+   "solar_bom": 5.53
+ },
+ {
+   "utc_timestamp": "2019-06-08 16:00:00+00:00",
+   "solar_ws": 38.13,
+   "solar_bom": 5.53
+ },
+ {
+   "utc_timestamp": "2019-06-08 17:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 5.53
+ },
+ {
+   "utc_timestamp": "2019-06-08 18:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 5.53
+ },
+ {
+   "utc_timestamp": "2019-06-08 19:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 5.53
+ },
+ {
+   "utc_timestamp": "2019-06-08 20:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 5.53
+ },
+ {
+   "utc_timestamp": "2019-06-08 21:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 5.53
+ },
+ {
+   "utc_timestamp": "2019-06-08 22:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 5.53
+ },
+ {
+   "utc_timestamp": "2019-06-08 23:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 5.53
+ },
+ {
+   "utc_timestamp": "2019-06-09 00:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 13.68
+ },
+ {
+   "utc_timestamp": "2019-06-09 01:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 13.68
+ },
+ {
+   "utc_timestamp": "2019-06-09 02:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 13.68
+ },
+ {
+   "utc_timestamp": "2019-06-09 03:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 13.68
+ },
+ {
+   "utc_timestamp": "2019-06-09 04:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 13.68
+ },
+ {
+   "utc_timestamp": "2019-06-09 05:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 13.68
+ },
+ {
+   "utc_timestamp": "2019-06-09 06:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 13.68
+ },
+ {
+   "utc_timestamp": "2019-06-09 07:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 13.68
+ },
+ {
+   "utc_timestamp": "2019-06-09 08:00:00+00:00",
+   "solar_ws": 121.91,
+   "solar_bom": 13.68
+ },
+ {
+   "utc_timestamp": "2019-06-09 09:00:00+00:00",
+   "solar_ws": 209.085,
+   "solar_bom": 13.68
+ },
+ {
+   "utc_timestamp": "2019-06-09 10:00:00+00:00",
+   "solar_ws": 356.85,
+   "solar_bom": 13.68
+ },
+ {
+   "utc_timestamp": "2019-06-09 11:00:00+00:00",
+   "solar_ws": 355.76,
+   "solar_bom": 13.68
+ },
+ {
+   "utc_timestamp": "2019-06-09 12:00:00+00:00",
+   "solar_ws": 318.985,
+   "solar_bom": 13.68
+ },
+ {
+   "utc_timestamp": "2019-06-09 13:00:00+00:00",
+   "solar_ws": 229.775,
+   "solar_bom": 13.68
+ },
+ {
+   "utc_timestamp": "2019-06-09 14:00:00+00:00",
+   "solar_ws": 196.305,
+   "solar_bom": 13.68
+ },
+ {
+   "utc_timestamp": "2019-06-09 15:00:00+00:00",
+   "solar_ws": 138.58,
+   "solar_bom": 13.68
+ },
+ {
+   "utc_timestamp": "2019-06-09 16:00:00+00:00",
+   "solar_ws": 52.33,
+   "solar_bom": 13.68
+ },
+ {
+   "utc_timestamp": "2019-06-09 17:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 13.68
+ },
+ {
+   "utc_timestamp": "2019-06-09 18:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 13.68
+ },
+ {
+   "utc_timestamp": "2019-06-09 19:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 13.68
+ },
+ {
+   "utc_timestamp": "2019-06-09 20:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 13.68
+ },
+ {
+   "utc_timestamp": "2019-06-09 21:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 13.68
+ },
+ {
+   "utc_timestamp": "2019-06-09 22:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 13.68
+ },
+ {
+   "utc_timestamp": "2019-06-09 23:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 13.68
+ },
+ {
+   "utc_timestamp": "2019-06-10 00:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.19
+ },
+ {
+   "utc_timestamp": "2019-06-10 01:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.19
+ },
+ {
+   "utc_timestamp": "2019-06-10 02:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.19
+ },
+ {
+   "utc_timestamp": "2019-06-10 03:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.19
+ },
+ {
+   "utc_timestamp": "2019-06-10 04:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.19
+ },
+ {
+   "utc_timestamp": "2019-06-10 05:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.19
+ },
+ {
+   "utc_timestamp": "2019-06-10 06:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.19
+ },
+ {
+   "utc_timestamp": "2019-06-10 07:00:00+00:00",
+   "solar_ws": 23.39,
+   "solar_bom": 14.19
+ },
+ {
+   "utc_timestamp": "2019-06-10 08:00:00+00:00",
+   "solar_ws": 228.51,
+   "solar_bom": 14.19
+ },
+ {
+   "utc_timestamp": "2019-06-10 09:00:00+00:00",
+   "solar_ws": 307.98,
+   "solar_bom": 14.19
+ },
+ {
+   "utc_timestamp": "2019-06-10 10:00:00+00:00",
+   "solar_ws": 350.73,
+   "solar_bom": 14.19
+ },
+ {
+   "utc_timestamp": "2019-06-10 11:00:00+00:00",
+   "solar_ws": 357.58,
+   "solar_bom": 14.19
+ },
+ {
+   "utc_timestamp": "2019-06-10 12:00:00+00:00",
+   "solar_ws": 317.1,
+   "solar_bom": 14.19
+ },
+ {
+   "utc_timestamp": "2019-06-10 13:00:00+00:00",
+   "solar_ws": 88.11,
+   "solar_bom": 14.19
+ },
+ {
+   "utc_timestamp": "2019-06-10 14:00:00+00:00",
+   "solar_ws": 50.085,
+   "solar_bom": 14.19
+ },
+ {
+   "utc_timestamp": "2019-06-10 15:00:00+00:00",
+   "solar_ws": 100.675,
+   "solar_bom": 14.19
+ },
+ {
+   "utc_timestamp": "2019-06-10 16:00:00+00:00",
+   "solar_ws": 33.415,
+   "solar_bom": 14.19
+ },
+ {
+   "utc_timestamp": "2019-06-10 17:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.19
+ },
+ {
+   "utc_timestamp": "2019-06-10 18:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.19
+ },
+ {
+   "utc_timestamp": "2019-06-10 19:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.19
+ },
+ {
+   "utc_timestamp": "2019-06-10 20:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.19
+ },
+ {
+   "utc_timestamp": "2019-06-10 21:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.19
+ },
+ {
+   "utc_timestamp": "2019-06-10 22:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.19
+ },
+ {
+   "utc_timestamp": "2019-06-10 23:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.19
+ },
+ {
+   "utc_timestamp": "2019-06-11 00:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.36
+ },
+ {
+   "utc_timestamp": "2019-06-11 01:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.36
+ },
+ {
+   "utc_timestamp": "2019-06-11 02:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.36
+ },
+ {
+   "utc_timestamp": "2019-06-11 03:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.36
+ },
+ {
+   "utc_timestamp": "2019-06-11 04:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.36
+ },
+ {
+   "utc_timestamp": "2019-06-11 05:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.36
+ },
+ {
+   "utc_timestamp": "2019-06-11 06:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.36
+ },
+ {
+   "utc_timestamp": "2019-06-11 07:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.36
+ },
+ {
+   "utc_timestamp": "2019-06-11 08:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.36
+ },
+ {
+   "utc_timestamp": "2019-06-11 09:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.36
+ },
+ {
+   "utc_timestamp": "2019-06-11 10:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.36
+ },
+ {
+   "utc_timestamp": "2019-06-11 11:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.36
+ },
+ {
+   "utc_timestamp": "2019-06-11 12:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.36
+ },
+ {
+   "utc_timestamp": "2019-06-11 13:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.36
+ },
+ {
+   "utc_timestamp": "2019-06-11 14:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.36
+ },
+ {
+   "utc_timestamp": "2019-06-11 15:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.36
+ },
+ {
+   "utc_timestamp": "2019-06-11 16:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.36
+ },
+ {
+   "utc_timestamp": "2019-06-11 17:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.36
+ },
+ {
+   "utc_timestamp": "2019-06-11 18:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.36
+ },
+ {
+   "utc_timestamp": "2019-06-11 19:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.36
+ },
+ {
+   "utc_timestamp": "2019-06-11 20:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.36
+ },
+ {
+   "utc_timestamp": "2019-06-11 21:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.36
+ },
+ {
+   "utc_timestamp": "2019-06-11 22:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.36
+ },
+ {
+   "utc_timestamp": "2019-06-11 23:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.36
+ },
+ {
+   "utc_timestamp": "2019-06-12 00:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 12.27
+ },
+ {
+   "utc_timestamp": "2019-06-12 01:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 12.27
+ },
+ {
+   "utc_timestamp": "2019-06-12 02:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 12.27
+ },
+ {
+   "utc_timestamp": "2019-06-12 03:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 12.27
+ },
+ {
+   "utc_timestamp": "2019-06-12 04:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 12.27
+ },
+ {
+   "utc_timestamp": "2019-06-12 05:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 12.27
+ },
+ {
+   "utc_timestamp": "2019-06-12 06:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 12.27
+ },
+ {
+   "utc_timestamp": "2019-06-12 07:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 12.27
+ },
+ {
+   "utc_timestamp": "2019-06-12 08:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 12.27
+ },
+ {
+   "utc_timestamp": "2019-06-12 09:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 12.27
+ },
+ {
+   "utc_timestamp": "2019-06-12 10:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 12.27
+ },
+ {
+   "utc_timestamp": "2019-06-12 11:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 12.27
+ },
+ {
+   "utc_timestamp": "2019-06-12 12:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 12.27
+ },
+ {
+   "utc_timestamp": "2019-06-12 13:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 12.27
+ },
+ {
+   "utc_timestamp": "2019-06-12 14:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 12.27
+ },
+ {
+   "utc_timestamp": "2019-06-12 15:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 12.27
+ },
+ {
+   "utc_timestamp": "2019-06-12 16:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 12.27
+ },
+ {
+   "utc_timestamp": "2019-06-12 17:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 12.27
+ },
+ {
+   "utc_timestamp": "2019-06-12 18:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 12.27
+ },
+ {
+   "utc_timestamp": "2019-06-12 19:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 12.27
+ },
+ {
+   "utc_timestamp": "2019-06-12 20:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 12.27
+ },
+ {
+   "utc_timestamp": "2019-06-12 21:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 12.27
+ },
+ {
+   "utc_timestamp": "2019-06-12 22:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 12.27
+ },
+ {
+   "utc_timestamp": "2019-06-12 23:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 12.27
+ },
+ {
+   "utc_timestamp": "2019-06-13 00:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 9.42
+ },
+ {
+   "utc_timestamp": "2019-06-13 01:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 9.42
+ },
+ {
+   "utc_timestamp": "2019-06-13 02:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 9.42
+ },
+ {
+   "utc_timestamp": "2019-06-13 03:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 9.42
+ },
+ {
+   "utc_timestamp": "2019-06-13 04:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 9.42
+ },
+ {
+   "utc_timestamp": "2019-06-13 05:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 9.42
+ },
+ {
+   "utc_timestamp": "2019-06-13 06:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 9.42
+ },
+ {
+   "utc_timestamp": "2019-06-13 07:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 9.42
+ },
+ {
+   "utc_timestamp": "2019-06-13 08:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 9.42
+ },
+ {
+   "utc_timestamp": "2019-06-13 09:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 9.42
+ },
+ {
+   "utc_timestamp": "2019-06-13 10:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 9.42
+ },
+ {
+   "utc_timestamp": "2019-06-13 11:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 9.42
+ },
+ {
+   "utc_timestamp": "2019-06-13 12:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 9.42
+ },
+ {
+   "utc_timestamp": "2019-06-13 13:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 9.42
+ },
+ {
+   "utc_timestamp": "2019-06-13 14:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 9.42
+ },
+ {
+   "utc_timestamp": "2019-06-13 15:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 9.42
+ },
+ {
+   "utc_timestamp": "2019-06-13 16:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 9.42
+ },
+ {
+   "utc_timestamp": "2019-06-13 17:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 9.42
+ },
+ {
+   "utc_timestamp": "2019-06-13 18:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 9.42
+ },
+ {
+   "utc_timestamp": "2019-06-13 19:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 9.42
+ },
+ {
+   "utc_timestamp": "2019-06-13 20:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 9.42
+ },
+ {
+   "utc_timestamp": "2019-06-13 21:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 9.42
+ },
+ {
+   "utc_timestamp": "2019-06-13 22:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 9.42
+ },
+ {
+   "utc_timestamp": "2019-06-13 23:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 9.42
+ },
+ {
+   "utc_timestamp": "2019-06-14 00:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.3
+ },
+ {
+   "utc_timestamp": "2019-06-14 01:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.3
+ },
+ {
+   "utc_timestamp": "2019-06-14 02:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.3
+ },
+ {
+   "utc_timestamp": "2019-06-14 03:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.3
+ },
+ {
+   "utc_timestamp": "2019-06-14 04:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.3
+ },
+ {
+   "utc_timestamp": "2019-06-14 05:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.3
+ },
+ {
+   "utc_timestamp": "2019-06-14 06:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.3
+ },
+ {
+   "utc_timestamp": "2019-06-14 07:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.3
+ },
+ {
+   "utc_timestamp": "2019-06-14 08:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.3
+ },
+ {
+   "utc_timestamp": "2019-06-14 09:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.3
+ },
+ {
+   "utc_timestamp": "2019-06-14 10:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.3
+ },
+ {
+   "utc_timestamp": "2019-06-14 11:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.3
+ },
+ {
+   "utc_timestamp": "2019-06-14 12:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.3
+ },
+ {
+   "utc_timestamp": "2019-06-14 13:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.3
+ },
+ {
+   "utc_timestamp": "2019-06-14 14:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.3
+ },
+ {
+   "utc_timestamp": "2019-06-14 15:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.3
+ },
+ {
+   "utc_timestamp": "2019-06-14 16:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.3
+ },
+ {
+   "utc_timestamp": "2019-06-14 17:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.3
+ },
+ {
+   "utc_timestamp": "2019-06-14 18:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.3
+ },
+ {
+   "utc_timestamp": "2019-06-14 19:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.3
+ },
+ {
+   "utc_timestamp": "2019-06-14 20:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.3
+ },
+ {
+   "utc_timestamp": "2019-06-14 21:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.3
+ },
+ {
+   "utc_timestamp": "2019-06-14 22:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.3
+ },
+ {
+   "utc_timestamp": "2019-06-14 23:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.3
+ },
+ {
+   "utc_timestamp": "2019-06-15 00:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.28
+ },
+ {
+   "utc_timestamp": "2019-06-15 01:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.28
+ },
+ {
+   "utc_timestamp": "2019-06-15 02:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.28
+ },
+ {
+   "utc_timestamp": "2019-06-15 03:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.28
+ },
+ {
+   "utc_timestamp": "2019-06-15 04:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.28
+ },
+ {
+   "utc_timestamp": "2019-06-15 05:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.28
+ },
+ {
+   "utc_timestamp": "2019-06-15 06:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.28
+ },
+ {
+   "utc_timestamp": "2019-06-15 07:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.28
+ },
+ {
+   "utc_timestamp": "2019-06-15 08:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.28
+ },
+ {
+   "utc_timestamp": "2019-06-15 09:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.28
+ },
+ {
+   "utc_timestamp": "2019-06-15 10:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.28
+ },
+ {
+   "utc_timestamp": "2019-06-15 11:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.28
+ },
+ {
+   "utc_timestamp": "2019-06-15 12:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.28
+ },
+ {
+   "utc_timestamp": "2019-06-15 13:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.28
+ },
+ {
+   "utc_timestamp": "2019-06-15 14:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.28
+ },
+ {
+   "utc_timestamp": "2019-06-15 15:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.28
+ },
+ {
+   "utc_timestamp": "2019-06-15 16:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.28
+ },
+ {
+   "utc_timestamp": "2019-06-15 17:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.28
+ },
+ {
+   "utc_timestamp": "2019-06-15 18:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.28
+ },
+ {
+   "utc_timestamp": "2019-06-15 19:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.28
+ },
+ {
+   "utc_timestamp": "2019-06-15 20:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.28
+ },
+ {
+   "utc_timestamp": "2019-06-15 21:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.28
+ },
+ {
+   "utc_timestamp": "2019-06-15 22:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.28
+ },
+ {
+   "utc_timestamp": "2019-06-15 23:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.28
+ },
+ {
+   "utc_timestamp": "2019-06-16 00:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 12.48
+ },
+ {
+   "utc_timestamp": "2019-06-16 01:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 12.48
+ },
+ {
+   "utc_timestamp": "2019-06-16 02:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 12.48
+ },
+ {
+   "utc_timestamp": "2019-06-16 03:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 12.48
+ },
+ {
+   "utc_timestamp": "2019-06-16 04:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 12.48
+ },
+ {
+   "utc_timestamp": "2019-06-16 05:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 12.48
+ },
+ {
+   "utc_timestamp": "2019-06-16 06:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 12.48
+ },
+ {
+   "utc_timestamp": "2019-06-16 07:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 12.48
+ },
+ {
+   "utc_timestamp": "2019-06-16 08:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 12.48
+ },
+ {
+   "utc_timestamp": "2019-06-16 09:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 12.48
+ },
+ {
+   "utc_timestamp": "2019-06-16 10:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 12.48
+ },
+ {
+   "utc_timestamp": "2019-06-16 11:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 12.48
+ },
+ {
+   "utc_timestamp": "2019-06-16 12:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 12.48
+ },
+ {
+   "utc_timestamp": "2019-06-16 13:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 12.48
+ },
+ {
+   "utc_timestamp": "2019-06-16 14:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 12.48
+ },
+ {
+   "utc_timestamp": "2019-06-16 15:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 12.48
+ },
+ {
+   "utc_timestamp": "2019-06-16 16:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 12.48
+ },
+ {
+   "utc_timestamp": "2019-06-16 17:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 12.48
+ },
+ {
+   "utc_timestamp": "2019-06-16 18:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 12.48
+ },
+ {
+   "utc_timestamp": "2019-06-16 19:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 12.48
+ },
+ {
+   "utc_timestamp": "2019-06-16 20:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 12.48
+ },
+ {
+   "utc_timestamp": "2019-06-16 21:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 12.48
+ },
+ {
+   "utc_timestamp": "2019-06-16 22:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 12.48
+ },
+ {
+   "utc_timestamp": "2019-06-16 23:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 12.48
+ },
+ {
+   "utc_timestamp": "2019-06-17 00:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.26
+ },
+ {
+   "utc_timestamp": "2019-06-17 01:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.26
+ },
+ {
+   "utc_timestamp": "2019-06-17 02:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.26
+ },
+ {
+   "utc_timestamp": "2019-06-17 03:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.26
+ },
+ {
+   "utc_timestamp": "2019-06-17 04:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.26
+ },
+ {
+   "utc_timestamp": "2019-06-17 05:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.26
+ },
+ {
+   "utc_timestamp": "2019-06-17 06:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.26
+ },
+ {
+   "utc_timestamp": "2019-06-17 07:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.26
+ },
+ {
+   "utc_timestamp": "2019-06-17 08:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.26
+ },
+ {
+   "utc_timestamp": "2019-06-17 09:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.26
+ },
+ {
+   "utc_timestamp": "2019-06-17 10:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.26
+ },
+ {
+   "utc_timestamp": "2019-06-17 11:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.26
+ },
+ {
+   "utc_timestamp": "2019-06-17 12:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.26
+ },
+ {
+   "utc_timestamp": "2019-06-17 13:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.26
+ },
+ {
+   "utc_timestamp": "2019-06-17 14:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.26
+ },
+ {
+   "utc_timestamp": "2019-06-17 15:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.26
+ },
+ {
+   "utc_timestamp": "2019-06-17 16:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.26
+ },
+ {
+   "utc_timestamp": "2019-06-17 17:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.26
+ },
+ {
+   "utc_timestamp": "2019-06-17 18:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.26
+ },
+ {
+   "utc_timestamp": "2019-06-17 19:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.26
+ },
+ {
+   "utc_timestamp": "2019-06-17 20:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.26
+ },
+ {
+   "utc_timestamp": "2019-06-17 21:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.26
+ },
+ {
+   "utc_timestamp": "2019-06-17 22:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.26
+ },
+ {
+   "utc_timestamp": "2019-06-17 23:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.26
+ },
+ {
+   "utc_timestamp": "2019-06-18 00:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 13.99
+ },
+ {
+   "utc_timestamp": "2019-06-18 01:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 13.99
+ },
+ {
+   "utc_timestamp": "2019-06-18 02:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 13.99
+ },
+ {
+   "utc_timestamp": "2019-06-18 03:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 13.99
+ },
+ {
+   "utc_timestamp": "2019-06-18 04:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 13.99
+ },
+ {
+   "utc_timestamp": "2019-06-18 05:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 13.99
+ },
+ {
+   "utc_timestamp": "2019-06-18 06:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 13.99
+ },
+ {
+   "utc_timestamp": "2019-06-18 07:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 13.99
+ },
+ {
+   "utc_timestamp": "2019-06-18 08:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 13.99
+ },
+ {
+   "utc_timestamp": "2019-06-18 09:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 13.99
+ },
+ {
+   "utc_timestamp": "2019-06-18 10:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 13.99
+ },
+ {
+   "utc_timestamp": "2019-06-18 11:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 13.99
+ },
+ {
+   "utc_timestamp": "2019-06-18 12:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 13.99
+ },
+ {
+   "utc_timestamp": "2019-06-18 13:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 13.99
+ },
+ {
+   "utc_timestamp": "2019-06-18 14:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 13.99
+ },
+ {
+   "utc_timestamp": "2019-06-18 15:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 13.99
+ },
+ {
+   "utc_timestamp": "2019-06-18 16:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 13.99
+ },
+ {
+   "utc_timestamp": "2019-06-18 17:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 13.99
+ },
+ {
+   "utc_timestamp": "2019-06-18 18:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 13.99
+ },
+ {
+   "utc_timestamp": "2019-06-18 19:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 13.99
+ },
+ {
+   "utc_timestamp": "2019-06-18 20:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 13.99
+ },
+ {
+   "utc_timestamp": "2019-06-18 21:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 13.99
+ },
+ {
+   "utc_timestamp": "2019-06-18 22:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 13.99
+ },
+ {
+   "utc_timestamp": "2019-06-18 23:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 13.99
+ },
+ {
+   "utc_timestamp": "2019-06-19 00:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.21
+ },
+ {
+   "utc_timestamp": "2019-06-19 01:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.21
+ },
+ {
+   "utc_timestamp": "2019-06-19 02:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.21
+ },
+ {
+   "utc_timestamp": "2019-06-19 03:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.21
+ },
+ {
+   "utc_timestamp": "2019-06-19 04:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.21
+ },
+ {
+   "utc_timestamp": "2019-06-19 05:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.21
+ },
+ {
+   "utc_timestamp": "2019-06-19 06:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.21
+ },
+ {
+   "utc_timestamp": "2019-06-19 07:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.21
+ },
+ {
+   "utc_timestamp": "2019-06-19 08:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.21
+ },
+ {
+   "utc_timestamp": "2019-06-19 09:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.21
+ },
+ {
+   "utc_timestamp": "2019-06-19 10:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.21
+ },
+ {
+   "utc_timestamp": "2019-06-19 11:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.21
+ },
+ {
+   "utc_timestamp": "2019-06-19 12:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.21
+ },
+ {
+   "utc_timestamp": "2019-06-19 13:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.21
+ },
+ {
+   "utc_timestamp": "2019-06-19 14:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.21
+ },
+ {
+   "utc_timestamp": "2019-06-19 15:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.21
+ },
+ {
+   "utc_timestamp": "2019-06-19 16:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.21
+ },
+ {
+   "utc_timestamp": "2019-06-19 17:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.21
+ },
+ {
+   "utc_timestamp": "2019-06-19 18:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.21
+ },
+ {
+   "utc_timestamp": "2019-06-19 19:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.21
+ },
+ {
+   "utc_timestamp": "2019-06-19 20:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.21
+ },
+ {
+   "utc_timestamp": "2019-06-19 21:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.21
+ },
+ {
+   "utc_timestamp": "2019-06-19 22:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.21
+ },
+ {
+   "utc_timestamp": "2019-06-19 23:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.21
+ },
+ {
+   "utc_timestamp": "2019-06-20 00:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 5.49
+ },
+ {
+   "utc_timestamp": "2019-06-20 01:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 5.49
+ },
+ {
+   "utc_timestamp": "2019-06-20 02:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 5.49
+ },
+ {
+   "utc_timestamp": "2019-06-20 03:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 5.49
+ },
+ {
+   "utc_timestamp": "2019-06-20 04:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 5.49
+ },
+ {
+   "utc_timestamp": "2019-06-20 05:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 5.49
+ },
+ {
+   "utc_timestamp": "2019-06-20 06:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 5.49
+ },
+ {
+   "utc_timestamp": "2019-06-20 07:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 5.49
+ },
+ {
+   "utc_timestamp": "2019-06-20 08:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 5.49
+ },
+ {
+   "utc_timestamp": "2019-06-20 09:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 5.49
+ },
+ {
+   "utc_timestamp": "2019-06-20 10:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 5.49
+ },
+ {
+   "utc_timestamp": "2019-06-20 11:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 5.49
+ },
+ {
+   "utc_timestamp": "2019-06-20 12:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 5.49
+ },
+ {
+   "utc_timestamp": "2019-06-20 13:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 5.49
+ },
+ {
+   "utc_timestamp": "2019-06-20 14:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 5.49
+ },
+ {
+   "utc_timestamp": "2019-06-20 15:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 5.49
+ },
+ {
+   "utc_timestamp": "2019-06-20 16:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 5.49
+ },
+ {
+   "utc_timestamp": "2019-06-20 17:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 5.49
+ },
+ {
+   "utc_timestamp": "2019-06-20 18:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 5.49
+ },
+ {
+   "utc_timestamp": "2019-06-20 19:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 5.49
+ },
+ {
+   "utc_timestamp": "2019-06-20 20:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 5.49
+ },
+ {
+   "utc_timestamp": "2019-06-20 21:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 5.49
+ },
+ {
+   "utc_timestamp": "2019-06-20 22:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 5.49
+ },
+ {
+   "utc_timestamp": "2019-06-20 23:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 5.49
+ },
+ {
+   "utc_timestamp": "2019-06-21 00:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.13
+ },
+ {
+   "utc_timestamp": "2019-06-21 01:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.13
+ },
+ {
+   "utc_timestamp": "2019-06-21 02:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.13
+ },
+ {
+   "utc_timestamp": "2019-06-21 03:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.13
+ },
+ {
+   "utc_timestamp": "2019-06-21 04:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.13
+ },
+ {
+   "utc_timestamp": "2019-06-21 05:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.13
+ },
+ {
+   "utc_timestamp": "2019-06-21 06:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.13
+ },
+ {
+   "utc_timestamp": "2019-06-21 07:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.13
+ },
+ {
+   "utc_timestamp": "2019-06-21 08:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.13
+ },
+ {
+   "utc_timestamp": "2019-06-21 09:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.13
+ },
+ {
+   "utc_timestamp": "2019-06-21 10:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.13
+ },
+ {
+   "utc_timestamp": "2019-06-21 11:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.13
+ },
+ {
+   "utc_timestamp": "2019-06-21 12:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.13
+ },
+ {
+   "utc_timestamp": "2019-06-21 13:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.13
+ },
+ {
+   "utc_timestamp": "2019-06-21 14:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.13
+ },
+ {
+   "utc_timestamp": "2019-06-21 15:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.13
+ },
+ {
+   "utc_timestamp": "2019-06-21 16:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.13
+ },
+ {
+   "utc_timestamp": "2019-06-21 17:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.13
+ },
+ {
+   "utc_timestamp": "2019-06-21 18:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.13
+ },
+ {
+   "utc_timestamp": "2019-06-21 19:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.13
+ },
+ {
+   "utc_timestamp": "2019-06-21 20:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.13
+ },
+ {
+   "utc_timestamp": "2019-06-21 21:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.13
+ },
+ {
+   "utc_timestamp": "2019-06-21 22:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.13
+ },
+ {
+   "utc_timestamp": "2019-06-21 23:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.13
+ },
+ {
+   "utc_timestamp": "2019-06-22 00:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.26
+ },
+ {
+   "utc_timestamp": "2019-06-22 01:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.26
+ },
+ {
+   "utc_timestamp": "2019-06-22 02:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.26
+ },
+ {
+   "utc_timestamp": "2019-06-22 03:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.26
+ },
+ {
+   "utc_timestamp": "2019-06-22 04:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.26
+ },
+ {
+   "utc_timestamp": "2019-06-22 05:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.26
+ },
+ {
+   "utc_timestamp": "2019-06-22 06:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.26
+ },
+ {
+   "utc_timestamp": "2019-06-22 07:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.26
+ },
+ {
+   "utc_timestamp": "2019-06-22 08:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.26
+ },
+ {
+   "utc_timestamp": "2019-06-22 09:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.26
+ },
+ {
+   "utc_timestamp": "2019-06-22 10:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.26
+ },
+ {
+   "utc_timestamp": "2019-06-22 11:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.26
+ },
+ {
+   "utc_timestamp": "2019-06-22 12:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.26
+ },
+ {
+   "utc_timestamp": "2019-06-22 13:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.26
+ },
+ {
+   "utc_timestamp": "2019-06-22 14:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.26
+ },
+ {
+   "utc_timestamp": "2019-06-22 15:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.26
+ },
+ {
+   "utc_timestamp": "2019-06-22 16:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.26
+ },
+ {
+   "utc_timestamp": "2019-06-22 17:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.26
+ },
+ {
+   "utc_timestamp": "2019-06-22 18:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.26
+ },
+ {
+   "utc_timestamp": "2019-06-22 19:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.26
+ },
+ {
+   "utc_timestamp": "2019-06-22 20:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.26
+ },
+ {
+   "utc_timestamp": "2019-06-22 21:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.26
+ },
+ {
+   "utc_timestamp": "2019-06-22 22:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.26
+ },
+ {
+   "utc_timestamp": "2019-06-22 23:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.26
+ },
+ {
+   "utc_timestamp": "2019-06-23 00:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 13.94
+ },
+ {
+   "utc_timestamp": "2019-06-23 01:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 13.94
+ },
+ {
+   "utc_timestamp": "2019-06-23 02:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 13.94
+ },
+ {
+   "utc_timestamp": "2019-06-23 03:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 13.94
+ },
+ {
+   "utc_timestamp": "2019-06-23 04:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 13.94
+ },
+ {
+   "utc_timestamp": "2019-06-23 05:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 13.94
+ },
+ {
+   "utc_timestamp": "2019-06-23 06:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 13.94
+ },
+ {
+   "utc_timestamp": "2019-06-23 07:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 13.94
+ },
+ {
+   "utc_timestamp": "2019-06-23 08:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 13.94
+ },
+ {
+   "utc_timestamp": "2019-06-23 09:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 13.94
+ },
+ {
+   "utc_timestamp": "2019-06-23 10:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 13.94
+ },
+ {
+   "utc_timestamp": "2019-06-23 11:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 13.94
+ },
+ {
+   "utc_timestamp": "2019-06-23 12:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 13.94
+ },
+ {
+   "utc_timestamp": "2019-06-23 13:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 13.94
+ },
+ {
+   "utc_timestamp": "2019-06-23 14:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 13.94
+ },
+ {
+   "utc_timestamp": "2019-06-23 15:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 13.94
+ },
+ {
+   "utc_timestamp": "2019-06-23 16:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 13.94
+ },
+ {
+   "utc_timestamp": "2019-06-23 17:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 13.94
+ },
+ {
+   "utc_timestamp": "2019-06-23 18:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 13.94
+ },
+ {
+   "utc_timestamp": "2019-06-23 19:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 13.94
+ },
+ {
+   "utc_timestamp": "2019-06-23 20:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 13.94
+ },
+ {
+   "utc_timestamp": "2019-06-23 21:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 13.94
+ },
+ {
+   "utc_timestamp": "2019-06-23 22:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 13.94
+ },
+ {
+   "utc_timestamp": "2019-06-23 23:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 13.94
+ },
+ {
+   "utc_timestamp": "2019-06-24 00:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.22
+ },
+ {
+   "utc_timestamp": "2019-06-24 01:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.22
+ },
+ {
+   "utc_timestamp": "2019-06-24 02:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.22
+ },
+ {
+   "utc_timestamp": "2019-06-24 03:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.22
+ },
+ {
+   "utc_timestamp": "2019-06-24 04:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.22
+ },
+ {
+   "utc_timestamp": "2019-06-24 05:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.22
+ },
+ {
+   "utc_timestamp": "2019-06-24 06:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.22
+ },
+ {
+   "utc_timestamp": "2019-06-24 07:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.22
+ },
+ {
+   "utc_timestamp": "2019-06-24 08:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.22
+ },
+ {
+   "utc_timestamp": "2019-06-24 09:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.22
+ },
+ {
+   "utc_timestamp": "2019-06-24 10:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.22
+ },
+ {
+   "utc_timestamp": "2019-06-24 11:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.22
+ },
+ {
+   "utc_timestamp": "2019-06-24 12:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.22
+ },
+ {
+   "utc_timestamp": "2019-06-24 13:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.22
+ },
+ {
+   "utc_timestamp": "2019-06-24 14:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.22
+ },
+ {
+   "utc_timestamp": "2019-06-24 15:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.22
+ },
+ {
+   "utc_timestamp": "2019-06-24 16:00:00+00:00",
+   "solar_ws": 68.115,
+   "solar_bom": 14.22
+ },
+ {
+   "utc_timestamp": "2019-06-24 17:00:00+00:00",
+   "solar_ws": 1.57,
+   "solar_bom": 14.22
+ },
+ {
+   "utc_timestamp": "2019-06-24 18:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.22
+ },
+ {
+   "utc_timestamp": "2019-06-24 19:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.22
+ },
+ {
+   "utc_timestamp": "2019-06-24 20:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.22
+ },
+ {
+   "utc_timestamp": "2019-06-24 21:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.22
+ },
+ {
+   "utc_timestamp": "2019-06-24 22:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.22
+ },
+ {
+   "utc_timestamp": "2019-06-24 23:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.22
+ },
+ {
+   "utc_timestamp": "2019-06-25 00:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 9.43
+ },
+ {
+   "utc_timestamp": "2019-06-25 01:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 9.43
+ },
+ {
+   "utc_timestamp": "2019-06-25 02:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 9.43
+ },
+ {
+   "utc_timestamp": "2019-06-25 03:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 9.43
+ },
+ {
+   "utc_timestamp": "2019-06-25 04:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 9.43
+ },
+ {
+   "utc_timestamp": "2019-06-25 05:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 9.43
+ },
+ {
+   "utc_timestamp": "2019-06-25 06:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 9.43
+ },
+ {
+   "utc_timestamp": "2019-06-25 07:00:00+00:00",
+   "solar_ws": 23.3,
+   "solar_bom": 9.43
+ },
+ {
+   "utc_timestamp": "2019-06-25 08:00:00+00:00",
+   "solar_ws": 151.245,
+   "solar_bom": 9.43
+ },
+ {
+   "utc_timestamp": "2019-06-25 09:00:00+00:00",
+   "solar_ws": 262.685,
+   "solar_bom": 9.43
+ },
+ {
+   "utc_timestamp": "2019-06-25 10:00:00+00:00",
+   "solar_ws": 270.245,
+   "solar_bom": 9.43
+ },
+ {
+   "utc_timestamp": "2019-06-25 11:00:00+00:00",
+   "solar_ws": 192.1,
+   "solar_bom": 9.43
+ },
+ {
+   "utc_timestamp": "2019-06-25 12:00:00+00:00",
+   "solar_ws": 218.13,
+   "solar_bom": 9.43
+ },
+ {
+   "utc_timestamp": "2019-06-25 13:00:00+00:00",
+   "solar_ws": 333.355,
+   "solar_bom": 9.43
+ },
+ {
+   "utc_timestamp": "2019-06-25 14:00:00+00:00",
+   "solar_ws": 260.81,
+   "solar_bom": 9.43
+ },
+ {
+   "utc_timestamp": "2019-06-25 15:00:00+00:00",
+   "solar_ws": 207.04,
+   "solar_bom": 9.43
+ },
+ {
+   "utc_timestamp": "2019-06-25 16:00:00+00:00",
+   "solar_ws": 71.26,
+   "solar_bom": 9.43
+ },
+ {
+   "utc_timestamp": "2019-06-25 17:00:00+00:00",
+   "solar_ws": 0.87,
+   "solar_bom": 9.43
+ },
+ {
+   "utc_timestamp": "2019-06-25 18:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 9.43
+ },
+ {
+   "utc_timestamp": "2019-06-25 19:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 9.43
+ },
+ {
+   "utc_timestamp": "2019-06-25 20:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 9.43
+ },
+ {
+   "utc_timestamp": "2019-06-25 21:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 9.43
+ },
+ {
+   "utc_timestamp": "2019-06-25 22:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 9.43
+ },
+ {
+   "utc_timestamp": "2019-06-25 23:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 9.43
+ },
+ {
+   "utc_timestamp": "2019-06-26 00:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 6.69
+ },
+ {
+   "utc_timestamp": "2019-06-26 01:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 6.69
+ },
+ {
+   "utc_timestamp": "2019-06-26 02:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 6.69
+ },
+ {
+   "utc_timestamp": "2019-06-26 03:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 6.69
+ },
+ {
+   "utc_timestamp": "2019-06-26 04:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 6.69
+ },
+ {
+   "utc_timestamp": "2019-06-26 05:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 6.69
+ },
+ {
+   "utc_timestamp": "2019-06-26 06:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 6.69
+ },
+ {
+   "utc_timestamp": "2019-06-26 07:00:00+00:00",
+   "solar_ws": 10.01,
+   "solar_bom": 6.69
+ },
+ {
+   "utc_timestamp": "2019-06-26 08:00:00+00:00",
+   "solar_ws": 83.925,
+   "solar_bom": 6.69
+ },
+ {
+   "utc_timestamp": "2019-06-26 09:00:00+00:00",
+   "solar_ws": 191.51,
+   "solar_bom": 6.69
+ },
+ {
+   "utc_timestamp": "2019-06-26 10:00:00+00:00",
+   "solar_ws": 337.96,
+   "solar_bom": 6.69
+ },
+ {
+   "utc_timestamp": "2019-06-26 11:00:00+00:00",
+   "solar_ws": 148.97,
+   "solar_bom": 6.69
+ },
+ {
+   "utc_timestamp": "2019-06-26 12:00:00+00:00",
+   "solar_ws": 162.24,
+   "solar_bom": 6.69
+ },
+ {
+   "utc_timestamp": "2019-06-26 13:00:00+00:00",
+   "solar_ws": 99.87,
+   "solar_bom": 6.69
+ },
+ {
+   "utc_timestamp": "2019-06-26 14:00:00+00:00",
+   "solar_ws": 108.2,
+   "solar_bom": 6.69
+ },
+ {
+   "utc_timestamp": "2019-06-26 15:00:00+00:00",
+   "solar_ws": 79.71,
+   "solar_bom": 6.69
+ },
+ {
+   "utc_timestamp": "2019-06-26 16:00:00+00:00",
+   "solar_ws": 27.44,
+   "solar_bom": 6.69
+ },
+ {
+   "utc_timestamp": "2019-06-26 17:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 6.69
+ },
+ {
+   "utc_timestamp": "2019-06-26 18:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 6.69
+ },
+ {
+   "utc_timestamp": "2019-06-26 19:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 6.69
+ },
+ {
+   "utc_timestamp": "2019-06-26 20:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 6.69
+ },
+ {
+   "utc_timestamp": "2019-06-26 21:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 6.69
+ },
+ {
+   "utc_timestamp": "2019-06-26 22:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 6.69
+ },
+ {
+   "utc_timestamp": "2019-06-26 23:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 6.69
+ },
+ {
+   "utc_timestamp": "2019-06-27 00:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 12.38
+ },
+ {
+   "utc_timestamp": "2019-06-27 01:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 12.38
+ },
+ {
+   "utc_timestamp": "2019-06-27 02:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 12.38
+ },
+ {
+   "utc_timestamp": "2019-06-27 03:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 12.38
+ },
+ {
+   "utc_timestamp": "2019-06-27 04:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 12.38
+ },
+ {
+   "utc_timestamp": "2019-06-27 05:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 12.38
+ },
+ {
+   "utc_timestamp": "2019-06-27 06:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 12.38
+ },
+ {
+   "utc_timestamp": "2019-06-27 07:00:00+00:00",
+   "solar_ws": 37.665,
+   "solar_bom": 12.38
+ },
+ {
+   "utc_timestamp": "2019-06-27 08:00:00+00:00",
+   "solar_ws": 424.26,
+   "solar_bom": 12.38
+ },
+ {
+   "utc_timestamp": "2019-06-27 09:00:00+00:00",
+   "solar_ws": 204.26,
+   "solar_bom": 12.38
+ },
+ {
+   "utc_timestamp": "2019-06-27 10:00:00+00:00",
+   "solar_ws": 660.2,
+   "solar_bom": 12.38
+ },
+ {
+   "utc_timestamp": "2019-06-27 11:00:00+00:00",
+   "solar_ws": 145.85,
+   "solar_bom": 12.38
+ },
+ {
+   "utc_timestamp": "2019-06-27 12:00:00+00:00",
+   "solar_ws": 599.08,
+   "solar_bom": 12.38
+ },
+ {
+   "utc_timestamp": "2019-06-27 13:00:00+00:00",
+   "solar_ws": 381.56,
+   "solar_bom": 12.38
+ },
+ {
+   "utc_timestamp": "2019-06-27 14:00:00+00:00",
+   "solar_ws": 122.56,
+   "solar_bom": 12.38
+ },
+ {
+   "utc_timestamp": "2019-06-27 15:00:00+00:00",
+   "solar_ws": 109.4,
+   "solar_bom": 12.38
+ },
+ {
+   "utc_timestamp": "2019-06-27 16:00:00+00:00",
+   "solar_ws": 112.42,
+   "solar_bom": 12.38
+ },
+ {
+   "utc_timestamp": "2019-06-27 17:00:00+00:00",
+   "solar_ws": 2.685,
+   "solar_bom": 12.38
+ },
+ {
+   "utc_timestamp": "2019-06-27 18:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 12.38
+ },
+ {
+   "utc_timestamp": "2019-06-27 19:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 12.38
+ },
+ {
+   "utc_timestamp": "2019-06-27 20:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 12.38
+ },
+ {
+   "utc_timestamp": "2019-06-27 21:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 12.38
+ },
+ {
+   "utc_timestamp": "2019-06-27 22:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 12.38
+ },
+ {
+   "utc_timestamp": "2019-06-27 23:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 12.38
+ },
+ {
+   "utc_timestamp": "2019-06-28 00:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 11.97
+ },
+ {
+   "utc_timestamp": "2019-06-28 01:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 11.97
+ },
+ {
+   "utc_timestamp": "2019-06-28 02:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 11.97
+ },
+ {
+   "utc_timestamp": "2019-06-28 03:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 11.97
+ },
+ {
+   "utc_timestamp": "2019-06-28 04:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 11.97
+ },
+ {
+   "utc_timestamp": "2019-06-28 05:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 11.97
+ },
+ {
+   "utc_timestamp": "2019-06-28 06:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 11.97
+ },
+ {
+   "utc_timestamp": "2019-06-28 07:00:00+00:00",
+   "solar_ws": 49.08,
+   "solar_bom": 11.97
+ },
+ {
+   "utc_timestamp": "2019-06-28 08:00:00+00:00",
+   "solar_ws": 369.6,
+   "solar_bom": 11.97
+ },
+ {
+   "utc_timestamp": "2019-06-28 09:00:00+00:00",
+   "solar_ws": 204.88,
+   "solar_bom": 11.97
+ },
+ {
+   "utc_timestamp": "2019-06-28 10:00:00+00:00",
+   "solar_ws": 536.71,
+   "solar_bom": 11.97
+ },
+ {
+   "utc_timestamp": "2019-06-28 11:00:00+00:00",
+   "solar_ws": 193.94,
+   "solar_bom": 11.97
+ },
+ {
+   "utc_timestamp": "2019-06-28 12:00:00+00:00",
+   "solar_ws": 295.8,
+   "solar_bom": 11.97
+ },
+ {
+   "utc_timestamp": "2019-06-28 13:00:00+00:00",
+   "solar_ws": 367.81,
+   "solar_bom": 11.97
+ },
+ {
+   "utc_timestamp": "2019-06-28 14:00:00+00:00",
+   "solar_ws": 277.845,
+   "solar_bom": 11.97
+ },
+ {
+   "utc_timestamp": "2019-06-28 15:00:00+00:00",
+   "solar_ws": 132.81,
+   "solar_bom": 11.97
+ },
+ {
+   "utc_timestamp": "2019-06-28 16:00:00+00:00",
+   "solar_ws": 60.105,
+   "solar_bom": 11.97
+ },
+ {
+   "utc_timestamp": "2019-06-28 17:00:00+00:00",
+   "solar_ws": 2.955,
+   "solar_bom": 11.97
+ },
+ {
+   "utc_timestamp": "2019-06-28 18:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 11.97
+ },
+ {
+   "utc_timestamp": "2019-06-28 19:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 11.97
+ },
+ {
+   "utc_timestamp": "2019-06-28 20:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 11.97
+ },
+ {
+   "utc_timestamp": "2019-06-28 21:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 11.97
+ },
+ {
+   "utc_timestamp": "2019-06-28 22:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 11.97
+ },
+ {
+   "utc_timestamp": "2019-06-28 23:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 11.97
+ },
+ {
+   "utc_timestamp": "2019-06-29 00:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 10.97
+ },
+ {
+   "utc_timestamp": "2019-06-29 01:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 10.97
+ },
+ {
+   "utc_timestamp": "2019-06-29 02:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 10.97
+ },
+ {
+   "utc_timestamp": "2019-06-29 03:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 10.97
+ },
+ {
+   "utc_timestamp": "2019-06-29 04:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 10.97
+ },
+ {
+   "utc_timestamp": "2019-06-29 05:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 10.97
+ },
+ {
+   "utc_timestamp": "2019-06-29 06:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 10.97
+ },
+ {
+   "utc_timestamp": "2019-06-29 07:00:00+00:00",
+   "solar_ws": 25.445,
+   "solar_bom": 10.97
+ },
+ {
+   "utc_timestamp": "2019-06-29 08:00:00+00:00",
+   "solar_ws": 111.97,
+   "solar_bom": 10.97
+ },
+ {
+   "utc_timestamp": "2019-06-29 09:00:00+00:00",
+   "solar_ws": 463.05,
+   "solar_bom": 10.97
+ },
+ {
+   "utc_timestamp": "2019-06-29 10:00:00+00:00",
+   "solar_ws": 243.31,
+   "solar_bom": 10.97
+ },
+ {
+   "utc_timestamp": "2019-06-29 11:00:00+00:00",
+   "solar_ws": 150.29,
+   "solar_bom": 10.97
+ },
+ {
+   "utc_timestamp": "2019-06-29 12:00:00+00:00",
+   "solar_ws": 424.85,
+   "solar_bom": 10.97
+ },
+ {
+   "utc_timestamp": "2019-06-29 13:00:00+00:00",
+   "solar_ws": 488.815,
+   "solar_bom": 10.97
+ },
+ {
+   "utc_timestamp": "2019-06-29 14:00:00+00:00",
+   "solar_ws": 229.94,
+   "solar_bom": 10.97
+ },
+ {
+   "utc_timestamp": "2019-06-29 15:00:00+00:00",
+   "solar_ws": 260.915,
+   "solar_bom": 10.97
+ },
+ {
+   "utc_timestamp": "2019-06-29 16:00:00+00:00",
+   "solar_ws": 71.24,
+   "solar_bom": 10.97
+ },
+ {
+   "utc_timestamp": "2019-06-29 17:00:00+00:00",
+   "solar_ws": 3.12,
+   "solar_bom": 10.97
+ },
+ {
+   "utc_timestamp": "2019-06-29 18:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 10.97
+ },
+ {
+   "utc_timestamp": "2019-06-29 19:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 10.97
+ },
+ {
+   "utc_timestamp": "2019-06-29 20:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 10.97
+ },
+ {
+   "utc_timestamp": "2019-06-29 21:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 10.97
+ },
+ {
+   "utc_timestamp": "2019-06-29 22:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 10.97
+ },
+ {
+   "utc_timestamp": "2019-06-29 23:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 10.97
+ },
+ {
+   "utc_timestamp": "2019-06-30 00:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.17
+ },
+ {
+   "utc_timestamp": "2019-06-30 01:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.17
+ },
+ {
+   "utc_timestamp": "2019-06-30 02:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.17
+ },
+ {
+   "utc_timestamp": "2019-06-30 03:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.17
+ },
+ {
+   "utc_timestamp": "2019-06-30 04:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.17
+ },
+ {
+   "utc_timestamp": "2019-06-30 05:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.17
+ },
+ {
+   "utc_timestamp": "2019-06-30 06:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.17
+ },
+ {
+   "utc_timestamp": "2019-06-30 07:00:00+00:00",
+   "solar_ws": 32.67,
+   "solar_bom": 14.17
+ },
+ {
+   "utc_timestamp": "2019-06-30 08:00:00+00:00",
+   "solar_ws": 323.845,
+   "solar_bom": 14.17
+ },
+ {
+   "utc_timestamp": "2019-06-30 09:00:00+00:00",
+   "solar_ws": 450.2,
+   "solar_bom": 14.17
+ },
+ {
+   "utc_timestamp": "2019-06-30 10:00:00+00:00",
+   "solar_ws": 541,
+   "solar_bom": 14.17
+ },
+ {
+   "utc_timestamp": "2019-06-30 11:00:00+00:00",
+   "solar_ws": 551.775,
+   "solar_bom": 14.17
+ },
+ {
+   "utc_timestamp": "2019-06-30 12:00:00+00:00",
+   "solar_ws": 472.235,
+   "solar_bom": 14.17
+ },
+ {
+   "utc_timestamp": "2019-06-30 13:00:00+00:00",
+   "solar_ws": 349.715,
+   "solar_bom": 14.17
+ },
+ {
+   "utc_timestamp": "2019-06-30 14:00:00+00:00",
+   "solar_ws": 217.265,
+   "solar_bom": 14.17
+ },
+ {
+   "utc_timestamp": "2019-06-30 15:00:00+00:00",
+   "solar_ws": 171.09,
+   "solar_bom": 14.17
+ },
+ {
+   "utc_timestamp": "2019-06-30 16:00:00+00:00",
+   "solar_ws": 55.33,
+   "solar_bom": 14.17
+ },
+ {
+   "utc_timestamp": "2019-06-30 17:00:00+00:00",
+   "solar_ws": 3.53,
+   "solar_bom": 14.17
+ },
+ {
+   "utc_timestamp": "2019-06-30 18:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.17
+ },
+ {
+   "utc_timestamp": "2019-06-30 19:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.17
+ },
+ {
+   "utc_timestamp": "2019-06-30 20:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.17
+ },
+ {
+   "utc_timestamp": "2019-06-30 21:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.17
+ },
+ {
+   "utc_timestamp": "2019-06-30 22:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.17
+ },
+ {
+   "utc_timestamp": "2019-06-30 23:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.17
+ },
+ {
+   "utc_timestamp": "2019-07-01 00:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 12.3
+ },
+ {
+   "utc_timestamp": "2019-07-01 01:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 12.3
+ },
+ {
+   "utc_timestamp": "2019-07-01 02:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 12.3
+ },
+ {
+   "utc_timestamp": "2019-07-01 03:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 12.3
+ },
+ {
+   "utc_timestamp": "2019-07-01 04:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 12.3
+ },
+ {
+   "utc_timestamp": "2019-07-01 05:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 12.3
+ },
+ {
+   "utc_timestamp": "2019-07-01 06:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 12.3
+ },
+ {
+   "utc_timestamp": "2019-07-01 07:00:00+00:00",
+   "solar_ws": 24.34,
+   "solar_bom": 12.3
+ },
+ {
+   "utc_timestamp": "2019-07-01 08:00:00+00:00",
+   "solar_ws": 317.61,
+   "solar_bom": 12.3
+ },
+ {
+   "utc_timestamp": "2019-07-01 09:00:00+00:00",
+   "solar_ws": 475.585,
+   "solar_bom": 12.3
+ },
+ {
+   "utc_timestamp": "2019-07-01 10:00:00+00:00",
+   "solar_ws": 567.875,
+   "solar_bom": 12.3
+ },
+ {
+   "utc_timestamp": "2019-07-01 11:00:00+00:00",
+   "solar_ws": 557.32,
+   "solar_bom": 12.3
+ },
+ {
+   "utc_timestamp": "2019-07-01 12:00:00+00:00",
+   "solar_ws": 457.2,
+   "solar_bom": 12.3
+ },
+ {
+   "utc_timestamp": "2019-07-01 13:00:00+00:00",
+   "solar_ws": 238.655,
+   "solar_bom": 12.3
+ },
+ {
+   "utc_timestamp": "2019-07-01 14:00:00+00:00",
+   "solar_ws": 236.555,
+   "solar_bom": 12.3
+ },
+ {
+   "utc_timestamp": "2019-07-01 15:00:00+00:00",
+   "solar_ws": 124.98,
+   "solar_bom": 12.3
+ },
+ {
+   "utc_timestamp": "2019-07-01 16:00:00+00:00",
+   "solar_ws": 31.5,
+   "solar_bom": 12.3
+ },
+ {
+   "utc_timestamp": "2019-07-01 17:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 12.3
+ },
+ {
+   "utc_timestamp": "2019-07-01 18:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 12.3
+ },
+ {
+   "utc_timestamp": "2019-07-01 19:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 12.3
+ },
+ {
+   "utc_timestamp": "2019-07-01 20:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 12.3
+ },
+ {
+   "utc_timestamp": "2019-07-01 21:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 12.3
+ },
+ {
+   "utc_timestamp": "2019-07-01 22:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 12.3
+ },
+ {
+   "utc_timestamp": "2019-07-01 23:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 12.3
+ },
+ {
+   "utc_timestamp": "2019-07-02 00:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 11.91
+ },
+ {
+   "utc_timestamp": "2019-07-02 01:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 11.91
+ },
+ {
+   "utc_timestamp": "2019-07-02 02:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 11.91
+ },
+ {
+   "utc_timestamp": "2019-07-02 03:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 11.91
+ },
+ {
+   "utc_timestamp": "2019-07-02 04:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 11.91
+ },
+ {
+   "utc_timestamp": "2019-07-02 05:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 11.91
+ },
+ {
+   "utc_timestamp": "2019-07-02 06:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 11.91
+ },
+ {
+   "utc_timestamp": "2019-07-02 07:00:00+00:00",
+   "solar_ws": 30.98,
+   "solar_bom": 11.91
+ },
+ {
+   "utc_timestamp": "2019-07-02 08:00:00+00:00",
+   "solar_ws": 171.72,
+   "solar_bom": 11.91
+ },
+ {
+   "utc_timestamp": "2019-07-02 09:00:00+00:00",
+   "solar_ws": 501.565,
+   "solar_bom": 11.91
+ },
+ {
+   "utc_timestamp": "2019-07-02 10:00:00+00:00",
+   "solar_ws": 491.58,
+   "solar_bom": 11.91
+ },
+ {
+   "utc_timestamp": "2019-07-02 11:00:00+00:00",
+   "solar_ws": 361.905,
+   "solar_bom": 11.91
+ },
+ {
+   "utc_timestamp": "2019-07-02 12:00:00+00:00",
+   "solar_ws": 279.095,
+   "solar_bom": 11.91
+ },
+ {
+   "utc_timestamp": "2019-07-02 13:00:00+00:00",
+   "solar_ws": 284.535,
+   "solar_bom": 11.91
+ },
+ {
+   "utc_timestamp": "2019-07-02 14:00:00+00:00",
+   "solar_ws": 198.77,
+   "solar_bom": 11.91
+ },
+ {
+   "utc_timestamp": "2019-07-02 15:00:00+00:00",
+   "solar_ws": 154.88,
+   "solar_bom": 11.91
+ },
+ {
+   "utc_timestamp": "2019-07-02 16:00:00+00:00",
+   "solar_ws": 73.04,
+   "solar_bom": 11.91
+ },
+ {
+   "utc_timestamp": "2019-07-02 17:00:00+00:00",
+   "solar_ws": 1.005,
+   "solar_bom": 11.91
+ },
+ {
+   "utc_timestamp": "2019-07-02 18:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 11.91
+ },
+ {
+   "utc_timestamp": "2019-07-02 19:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 11.91
+ },
+ {
+   "utc_timestamp": "2019-07-02 20:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 11.91
+ },
+ {
+   "utc_timestamp": "2019-07-02 21:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 11.91
+ },
+ {
+   "utc_timestamp": "2019-07-02 22:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 11.91
+ },
+ {
+   "utc_timestamp": "2019-07-02 23:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 11.91
+ },
+ {
+   "utc_timestamp": "2019-07-03 00:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 12.82
+ },
+ {
+   "utc_timestamp": "2019-07-03 01:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 12.82
+ },
+ {
+   "utc_timestamp": "2019-07-03 02:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 12.82
+ },
+ {
+   "utc_timestamp": "2019-07-03 03:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 12.82
+ },
+ {
+   "utc_timestamp": "2019-07-03 04:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 12.82
+ },
+ {
+   "utc_timestamp": "2019-07-03 05:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 12.82
+ },
+ {
+   "utc_timestamp": "2019-07-03 06:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 12.82
+ },
+ {
+   "utc_timestamp": "2019-07-03 07:00:00+00:00",
+   "solar_ws": 48.26,
+   "solar_bom": 12.82
+ },
+ {
+   "utc_timestamp": "2019-07-03 08:00:00+00:00",
+   "solar_ws": 351.54,
+   "solar_bom": 12.82
+ },
+ {
+   "utc_timestamp": "2019-07-03 09:00:00+00:00",
+   "solar_ws": 539.015,
+   "solar_bom": 12.82
+ },
+ {
+   "utc_timestamp": "2019-07-03 10:00:00+00:00",
+   "solar_ws": 581.005,
+   "solar_bom": 12.82
+ },
+ {
+   "utc_timestamp": "2019-07-03 11:00:00+00:00",
+   "solar_ws": 632.955,
+   "solar_bom": 12.82
+ },
+ {
+   "utc_timestamp": "2019-07-03 12:00:00+00:00",
+   "solar_ws": 227.28,
+   "solar_bom": 12.82
+ },
+ {
+   "utc_timestamp": "2019-07-03 13:00:00+00:00",
+   "solar_ws": 398.265,
+   "solar_bom": 12.82
+ },
+ {
+   "utc_timestamp": "2019-07-03 14:00:00+00:00",
+   "solar_ws": 261.335,
+   "solar_bom": 12.82
+ },
+ {
+   "utc_timestamp": "2019-07-03 15:00:00+00:00",
+   "solar_ws": 176.89,
+   "solar_bom": 12.82
+ },
+ {
+   "utc_timestamp": "2019-07-03 16:00:00+00:00",
+   "solar_ws": 70.83,
+   "solar_bom": 12.82
+ },
+ {
+   "utc_timestamp": "2019-07-03 17:00:00+00:00",
+   "solar_ws": 3.395,
+   "solar_bom": 12.82
+ },
+ {
+   "utc_timestamp": "2019-07-03 18:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 12.82
+ },
+ {
+   "utc_timestamp": "2019-07-03 19:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 12.82
+ },
+ {
+   "utc_timestamp": "2019-07-03 20:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 12.82
+ },
+ {
+   "utc_timestamp": "2019-07-03 21:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 12.82
+ },
+ {
+   "utc_timestamp": "2019-07-03 22:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 12.82
+ },
+ {
+   "utc_timestamp": "2019-07-03 23:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 12.82
+ },
+ {
+   "utc_timestamp": "2019-07-04 00:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 7.81
+ },
+ {
+   "utc_timestamp": "2019-07-04 01:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 7.81
+ },
+ {
+   "utc_timestamp": "2019-07-04 02:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 7.81
+ },
+ {
+   "utc_timestamp": "2019-07-04 03:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 7.81
+ },
+ {
+   "utc_timestamp": "2019-07-04 04:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 7.81
+ },
+ {
+   "utc_timestamp": "2019-07-04 05:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 7.81
+ },
+ {
+   "utc_timestamp": "2019-07-04 06:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 7.81
+ },
+ {
+   "utc_timestamp": "2019-07-04 07:00:00+00:00",
+   "solar_ws": 22.08,
+   "solar_bom": 7.81
+ },
+ {
+   "utc_timestamp": "2019-07-04 08:00:00+00:00",
+   "solar_ws": 306.305,
+   "solar_bom": 7.81
+ },
+ {
+   "utc_timestamp": "2019-07-04 09:00:00+00:00",
+   "solar_ws": 213.915,
+   "solar_bom": 7.81
+ },
+ {
+   "utc_timestamp": "2019-07-04 10:00:00+00:00",
+   "solar_ws": 608.42,
+   "solar_bom": 7.81
+ },
+ {
+   "utc_timestamp": "2019-07-04 11:00:00+00:00",
+   "solar_ws": 148.07,
+   "solar_bom": 7.81
+ },
+ {
+   "utc_timestamp": "2019-07-04 12:00:00+00:00",
+   "solar_ws": 588.28,
+   "solar_bom": 7.81
+ },
+ {
+   "utc_timestamp": "2019-07-04 13:00:00+00:00",
+   "solar_ws": 121.485,
+   "solar_bom": 7.81
+ },
+ {
+   "utc_timestamp": "2019-07-04 14:00:00+00:00",
+   "solar_ws": 216.985,
+   "solar_bom": 7.81
+ },
+ {
+   "utc_timestamp": "2019-07-04 15:00:00+00:00",
+   "solar_ws": 130.95,
+   "solar_bom": 7.81
+ },
+ {
+   "utc_timestamp": "2019-07-04 16:00:00+00:00",
+   "solar_ws": 83.86,
+   "solar_bom": 7.81
+ },
+ {
+   "utc_timestamp": "2019-07-04 17:00:00+00:00",
+   "solar_ws": 3.01,
+   "solar_bom": 7.81
+ },
+ {
+   "utc_timestamp": "2019-07-04 18:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 7.81
+ },
+ {
+   "utc_timestamp": "2019-07-04 19:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 7.81
+ },
+ {
+   "utc_timestamp": "2019-07-04 20:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 7.81
+ },
+ {
+   "utc_timestamp": "2019-07-04 21:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 7.81
+ },
+ {
+   "utc_timestamp": "2019-07-04 22:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 7.81
+ },
+ {
+   "utc_timestamp": "2019-07-04 23:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 7.81
+ },
+ {
+   "utc_timestamp": "2019-07-05 00:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 8.77
+ },
+ {
+   "utc_timestamp": "2019-07-05 01:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 8.77
+ },
+ {
+   "utc_timestamp": "2019-07-05 02:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 8.77
+ },
+ {
+   "utc_timestamp": "2019-07-05 03:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 8.77
+ },
+ {
+   "utc_timestamp": "2019-07-05 04:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 8.77
+ },
+ {
+   "utc_timestamp": "2019-07-05 05:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 8.77
+ },
+ {
+   "utc_timestamp": "2019-07-05 06:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 8.77
+ },
+ {
+   "utc_timestamp": "2019-07-05 07:00:00+00:00",
+   "solar_ws": 17.22,
+   "solar_bom": 8.77
+ },
+ {
+   "utc_timestamp": "2019-07-05 08:00:00+00:00",
+   "solar_ws": 107.68,
+   "solar_bom": 8.77
+ },
+ {
+   "utc_timestamp": "2019-07-05 09:00:00+00:00",
+   "solar_ws": 356.075,
+   "solar_bom": 8.77
+ },
+ {
+   "utc_timestamp": "2019-07-05 10:00:00+00:00",
+   "solar_ws": 578.765,
+   "solar_bom": 8.77
+ },
+ {
+   "utc_timestamp": "2019-07-05 11:00:00+00:00",
+   "solar_ws": 320.825,
+   "solar_bom": 8.77
+ },
+ {
+   "utc_timestamp": "2019-07-05 12:00:00+00:00",
+   "solar_ws": 229.595,
+   "solar_bom": 8.77
+ },
+ {
+   "utc_timestamp": "2019-07-05 13:00:00+00:00",
+   "solar_ws": 310.545,
+   "solar_bom": 8.77
+ },
+ {
+   "utc_timestamp": "2019-07-05 14:00:00+00:00",
+   "solar_ws": 245.065,
+   "solar_bom": 8.77
+ },
+ {
+   "utc_timestamp": "2019-07-05 15:00:00+00:00",
+   "solar_ws": 139.42,
+   "solar_bom": 8.77
+ },
+ {
+   "utc_timestamp": "2019-07-05 16:00:00+00:00",
+   "solar_ws": 66.79,
+   "solar_bom": 8.77
+ },
+ {
+   "utc_timestamp": "2019-07-05 17:00:00+00:00",
+   "solar_ws": 2.25,
+   "solar_bom": 8.77
+ },
+ {
+   "utc_timestamp": "2019-07-05 18:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 8.77
+ },
+ {
+   "utc_timestamp": "2019-07-05 19:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 8.77
+ },
+ {
+   "utc_timestamp": "2019-07-05 20:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 8.77
+ },
+ {
+   "utc_timestamp": "2019-07-05 21:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 8.77
+ },
+ {
+   "utc_timestamp": "2019-07-05 22:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 8.77
+ },
+ {
+   "utc_timestamp": "2019-07-05 23:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 8.77
+ },
+ {
+   "utc_timestamp": "2019-07-06 00:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 11.05
+ },
+ {
+   "utc_timestamp": "2019-07-06 01:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 11.05
+ },
+ {
+   "utc_timestamp": "2019-07-06 02:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 11.05
+ },
+ {
+   "utc_timestamp": "2019-07-06 03:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 11.05
+ },
+ {
+   "utc_timestamp": "2019-07-06 04:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 11.05
+ },
+ {
+   "utc_timestamp": "2019-07-06 05:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 11.05
+ },
+ {
+   "utc_timestamp": "2019-07-06 06:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 11.05
+ },
+ {
+   "utc_timestamp": "2019-07-06 07:00:00+00:00",
+   "solar_ws": 22.12,
+   "solar_bom": 11.05
+ },
+ {
+   "utc_timestamp": "2019-07-06 08:00:00+00:00",
+   "solar_ws": 121.4,
+   "solar_bom": 11.05
+ },
+ {
+   "utc_timestamp": "2019-07-06 09:00:00+00:00",
+   "solar_ws": 97.3,
+   "solar_bom": 11.05
+ },
+ {
+   "utc_timestamp": "2019-07-06 10:00:00+00:00",
+   "solar_ws": 158.695,
+   "solar_bom": 11.05
+ },
+ {
+   "utc_timestamp": "2019-07-06 11:00:00+00:00",
+   "solar_ws": 347.34,
+   "solar_bom": 11.05
+ },
+ {
+   "utc_timestamp": "2019-07-06 12:00:00+00:00",
+   "solar_ws": 495.9,
+   "solar_bom": 11.05
+ },
+ {
+   "utc_timestamp": "2019-07-06 13:00:00+00:00",
+   "solar_ws": 330.005,
+   "solar_bom": 11.05
+ },
+ {
+   "utc_timestamp": "2019-07-06 14:00:00+00:00",
+   "solar_ws": 102.575,
+   "solar_bom": 11.05
+ },
+ {
+   "utc_timestamp": "2019-07-06 15:00:00+00:00",
+   "solar_ws": 128.76,
+   "solar_bom": 11.05
+ },
+ {
+   "utc_timestamp": "2019-07-06 16:00:00+00:00",
+   "solar_ws": 56.98,
+   "solar_bom": 11.05
+ },
+ {
+   "utc_timestamp": "2019-07-06 17:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 11.05
+ },
+ {
+   "utc_timestamp": "2019-07-06 18:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 11.05
+ },
+ {
+   "utc_timestamp": "2019-07-06 19:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 11.05
+ },
+ {
+   "utc_timestamp": "2019-07-06 20:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 11.05
+ },
+ {
+   "utc_timestamp": "2019-07-06 21:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 11.05
+ },
+ {
+   "utc_timestamp": "2019-07-06 22:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 11.05
+ },
+ {
+   "utc_timestamp": "2019-07-06 23:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 11.05
+ },
+ {
+   "utc_timestamp": "2019-07-07 00:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.3
+ },
+ {
+   "utc_timestamp": "2019-07-07 01:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.3
+ },
+ {
+   "utc_timestamp": "2019-07-07 02:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.3
+ },
+ {
+   "utc_timestamp": "2019-07-07 03:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.3
+ },
+ {
+   "utc_timestamp": "2019-07-07 04:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.3
+ },
+ {
+   "utc_timestamp": "2019-07-07 05:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.3
+ },
+ {
+   "utc_timestamp": "2019-07-07 06:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.3
+ },
+ {
+   "utc_timestamp": "2019-07-07 07:00:00+00:00",
+   "solar_ws": 23.3,
+   "solar_bom": 14.3
+ },
+ {
+   "utc_timestamp": "2019-07-07 08:00:00+00:00",
+   "solar_ws": 249.23,
+   "solar_bom": 14.3
+ },
+ {
+   "utc_timestamp": "2019-07-07 09:00:00+00:00",
+   "solar_ws": 196.065,
+   "solar_bom": 14.3
+ },
+ {
+   "utc_timestamp": "2019-07-07 10:00:00+00:00",
+   "solar_ws": 229.73,
+   "solar_bom": 14.3
+ },
+ {
+   "utc_timestamp": "2019-07-07 11:00:00+00:00",
+   "solar_ws": 207.38,
+   "solar_bom": 14.3
+ },
+ {
+   "utc_timestamp": "2019-07-07 12:00:00+00:00",
+   "solar_ws": 164.74,
+   "solar_bom": 14.3
+ },
+ {
+   "utc_timestamp": "2019-07-07 13:00:00+00:00",
+   "solar_ws": 289.95,
+   "solar_bom": 14.3
+ },
+ {
+   "utc_timestamp": "2019-07-07 14:00:00+00:00",
+   "solar_ws": 201.85,
+   "solar_bom": 14.3
+ },
+ {
+   "utc_timestamp": "2019-07-07 15:00:00+00:00",
+   "solar_ws": 174.6,
+   "solar_bom": 14.3
+ },
+ {
+   "utc_timestamp": "2019-07-07 16:00:00+00:00",
+   "solar_ws": 79.71,
+   "solar_bom": 14.3
+ },
+ {
+   "utc_timestamp": "2019-07-07 17:00:00+00:00",
+   "solar_ws": 3.69,
+   "solar_bom": 14.3
+ },
+ {
+   "utc_timestamp": "2019-07-07 18:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.3
+ },
+ {
+   "utc_timestamp": "2019-07-07 19:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.3
+ },
+ {
+   "utc_timestamp": "2019-07-07 20:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.3
+ },
+ {
+   "utc_timestamp": "2019-07-07 21:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.3
+ },
+ {
+   "utc_timestamp": "2019-07-07 22:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.3
+ },
+ {
+   "utc_timestamp": "2019-07-07 23:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.3
+ },
+ {
+   "utc_timestamp": "2019-07-08 00:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 13.34
+ },
+ {
+   "utc_timestamp": "2019-07-08 01:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 13.34
+ },
+ {
+   "utc_timestamp": "2019-07-08 02:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 13.34
+ },
+ {
+   "utc_timestamp": "2019-07-08 03:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 13.34
+ },
+ {
+   "utc_timestamp": "2019-07-08 04:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 13.34
+ },
+ {
+   "utc_timestamp": "2019-07-08 05:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 13.34
+ },
+ {
+   "utc_timestamp": "2019-07-08 06:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 13.34
+ },
+ {
+   "utc_timestamp": "2019-07-08 07:00:00+00:00",
+   "solar_ws": 29.46,
+   "solar_bom": 13.34
+ },
+ {
+   "utc_timestamp": "2019-07-08 08:00:00+00:00",
+   "solar_ws": 83.55,
+   "solar_bom": 13.34
+ },
+ {
+   "utc_timestamp": "2019-07-08 09:00:00+00:00",
+   "solar_ws": 158.645,
+   "solar_bom": 13.34
+ },
+ {
+   "utc_timestamp": "2019-07-08 10:00:00+00:00",
+   "solar_ws": 407.52,
+   "solar_bom": 13.34
+ },
+ {
+   "utc_timestamp": "2019-07-08 11:00:00+00:00",
+   "solar_ws": 384.005,
+   "solar_bom": 13.34
+ },
+ {
+   "utc_timestamp": "2019-07-08 12:00:00+00:00",
+   "solar_ws": 340.15,
+   "solar_bom": 13.34
+ },
+ {
+   "utc_timestamp": "2019-07-08 13:00:00+00:00",
+   "solar_ws": 98.46,
+   "solar_bom": 13.34
+ },
+ {
+   "utc_timestamp": "2019-07-08 14:00:00+00:00",
+   "solar_ws": 268.455,
+   "solar_bom": 13.34
+ },
+ {
+   "utc_timestamp": "2019-07-08 15:00:00+00:00",
+   "solar_ws": 131.855,
+   "solar_bom": 13.34
+ },
+ {
+   "utc_timestamp": "2019-07-08 16:00:00+00:00",
+   "solar_ws": 99.31,
+   "solar_bom": 13.34
+ },
+ {
+   "utc_timestamp": "2019-07-08 17:00:00+00:00",
+   "solar_ws": 6.08,
+   "solar_bom": 13.34
+ },
+ {
+   "utc_timestamp": "2019-07-08 18:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 13.34
+ },
+ {
+   "utc_timestamp": "2019-07-08 19:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 13.34
+ },
+ {
+   "utc_timestamp": "2019-07-08 20:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 13.34
+ },
+ {
+   "utc_timestamp": "2019-07-08 21:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 13.34
+ },
+ {
+   "utc_timestamp": "2019-07-08 22:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 13.34
+ },
+ {
+   "utc_timestamp": "2019-07-08 23:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 13.34
+ },
+ {
+   "utc_timestamp": "2019-07-09 00:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.16
+ },
+ {
+   "utc_timestamp": "2019-07-09 01:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.16
+ },
+ {
+   "utc_timestamp": "2019-07-09 02:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.16
+ },
+ {
+   "utc_timestamp": "2019-07-09 03:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.16
+ },
+ {
+   "utc_timestamp": "2019-07-09 04:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.16
+ },
+ {
+   "utc_timestamp": "2019-07-09 05:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.16
+ },
+ {
+   "utc_timestamp": "2019-07-09 06:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.16
+ },
+ {
+   "utc_timestamp": "2019-07-09 07:00:00+00:00",
+   "solar_ws": 35.58,
+   "solar_bom": 14.16
+ },
+ {
+   "utc_timestamp": "2019-07-09 08:00:00+00:00",
+   "solar_ws": 363.47,
+   "solar_bom": 14.16
+ },
+ {
+   "utc_timestamp": "2019-07-09 09:00:00+00:00",
+   "solar_ws": 514.93,
+   "solar_bom": 14.16
+ },
+ {
+   "utc_timestamp": "2019-07-09 10:00:00+00:00",
+   "solar_ws": 591.175,
+   "solar_bom": 14.16
+ },
+ {
+   "utc_timestamp": "2019-07-09 11:00:00+00:00",
+   "solar_ws": 590.26,
+   "solar_bom": 14.16
+ },
+ {
+   "utc_timestamp": "2019-07-09 12:00:00+00:00",
+   "solar_ws": 510.07,
+   "solar_bom": 14.16
+ },
+ {
+   "utc_timestamp": "2019-07-09 13:00:00+00:00",
+   "solar_ws": 383,
+   "solar_bom": 14.16
+ },
+ {
+   "utc_timestamp": "2019-07-09 14:00:00+00:00",
+   "solar_ws": 279.69,
+   "solar_bom": 14.16
+ },
+ {
+   "utc_timestamp": "2019-07-09 15:00:00+00:00",
+   "solar_ws": 186.185,
+   "solar_bom": 14.16
+ },
+ {
+   "utc_timestamp": "2019-07-09 16:00:00+00:00",
+   "solar_ws": 58.76,
+   "solar_bom": 14.16
+ },
+ {
+   "utc_timestamp": "2019-07-09 17:00:00+00:00",
+   "solar_ws": 6.69,
+   "solar_bom": 14.16
+ },
+ {
+   "utc_timestamp": "2019-07-09 18:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.16
+ },
+ {
+   "utc_timestamp": "2019-07-09 19:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.16
+ },
+ {
+   "utc_timestamp": "2019-07-09 20:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.16
+ },
+ {
+   "utc_timestamp": "2019-07-09 21:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.16
+ },
+ {
+   "utc_timestamp": "2019-07-09 22:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.16
+ },
+ {
+   "utc_timestamp": "2019-07-09 23:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.16
+ },
+ {
+   "utc_timestamp": "2019-07-10 00:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.8
+ },
+ {
+   "utc_timestamp": "2019-07-10 01:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.8
+ },
+ {
+   "utc_timestamp": "2019-07-10 02:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.8
+ },
+ {
+   "utc_timestamp": "2019-07-10 03:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.8
+ },
+ {
+   "utc_timestamp": "2019-07-10 04:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.8
+ },
+ {
+   "utc_timestamp": "2019-07-10 05:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.8
+ },
+ {
+   "utc_timestamp": "2019-07-10 06:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.8
+ },
+ {
+   "utc_timestamp": "2019-07-10 07:00:00+00:00",
+   "solar_ws": 26.855,
+   "solar_bom": 14.8
+ },
+ {
+   "utc_timestamp": "2019-07-10 08:00:00+00:00",
+   "solar_ws": 222.25,
+   "solar_bom": 14.8
+ },
+ {
+   "utc_timestamp": "2019-07-10 09:00:00+00:00",
+   "solar_ws": 479.41,
+   "solar_bom": 14.8
+ },
+ {
+   "utc_timestamp": "2019-07-10 10:00:00+00:00",
+   "solar_ws": 603.38,
+   "solar_bom": 14.8
+ },
+ {
+   "utc_timestamp": "2019-07-10 11:00:00+00:00",
+   "solar_ws": 584.81,
+   "solar_bom": 14.8
+ },
+ {
+   "utc_timestamp": "2019-07-10 12:00:00+00:00",
+   "solar_ws": 520.09,
+   "solar_bom": 14.8
+ },
+ {
+   "utc_timestamp": "2019-07-10 13:00:00+00:00",
+   "solar_ws": 377.81,
+   "solar_bom": 14.8
+ },
+ {
+   "utc_timestamp": "2019-07-10 14:00:00+00:00",
+   "solar_ws": 244.925,
+   "solar_bom": 14.8
+ },
+ {
+   "utc_timestamp": "2019-07-10 15:00:00+00:00",
+   "solar_ws": 187.9,
+   "solar_bom": 14.8
+ },
+ {
+   "utc_timestamp": "2019-07-10 16:00:00+00:00",
+   "solar_ws": 59.28,
+   "solar_bom": 14.8
+ },
+ {
+   "utc_timestamp": "2019-07-10 17:00:00+00:00",
+   "solar_ws": 7.615,
+   "solar_bom": 14.8
+ },
+ {
+   "utc_timestamp": "2019-07-10 18:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.8
+ },
+ {
+   "utc_timestamp": "2019-07-10 19:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.8
+ },
+ {
+   "utc_timestamp": "2019-07-10 20:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.8
+ },
+ {
+   "utc_timestamp": "2019-07-10 21:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.8
+ },
+ {
+   "utc_timestamp": "2019-07-10 22:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.8
+ },
+ {
+   "utc_timestamp": "2019-07-10 23:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.8
+ },
+ {
+   "utc_timestamp": "2019-07-11 00:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.88
+ },
+ {
+   "utc_timestamp": "2019-07-11 01:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.88
+ },
+ {
+   "utc_timestamp": "2019-07-11 02:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.88
+ },
+ {
+   "utc_timestamp": "2019-07-11 03:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.88
+ },
+ {
+   "utc_timestamp": "2019-07-11 04:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.88
+ },
+ {
+   "utc_timestamp": "2019-07-11 05:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.88
+ },
+ {
+   "utc_timestamp": "2019-07-11 06:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.88
+ },
+ {
+   "utc_timestamp": "2019-07-11 07:00:00+00:00",
+   "solar_ws": 27.77,
+   "solar_bom": 14.88
+ },
+ {
+   "utc_timestamp": "2019-07-11 08:00:00+00:00",
+   "solar_ws": 376.82,
+   "solar_bom": 14.88
+ },
+ {
+   "utc_timestamp": "2019-07-11 09:00:00+00:00",
+   "solar_ws": 526.12,
+   "solar_bom": 14.88
+ },
+ {
+   "utc_timestamp": "2019-07-11 10:00:00+00:00",
+   "solar_ws": 590.15,
+   "solar_bom": 14.88
+ },
+ {
+   "utc_timestamp": "2019-07-11 11:00:00+00:00",
+   "solar_ws": 596.54,
+   "solar_bom": 14.88
+ },
+ {
+   "utc_timestamp": "2019-07-11 12:00:00+00:00",
+   "solar_ws": 524.95,
+   "solar_bom": 14.88
+ },
+ {
+   "utc_timestamp": "2019-07-11 13:00:00+00:00",
+   "solar_ws": 381.51,
+   "solar_bom": 14.88
+ },
+ {
+   "utc_timestamp": "2019-07-11 14:00:00+00:00",
+   "solar_ws": 251.49,
+   "solar_bom": 14.88
+ },
+ {
+   "utc_timestamp": "2019-07-11 15:00:00+00:00",
+   "solar_ws": 189.86,
+   "solar_bom": 14.88
+ },
+ {
+   "utc_timestamp": "2019-07-11 16:00:00+00:00",
+   "solar_ws": 61.41,
+   "solar_bom": 14.88
+ },
+ {
+   "utc_timestamp": "2019-07-11 17:00:00+00:00",
+   "solar_ws": 8.4,
+   "solar_bom": 14.88
+ },
+ {
+   "utc_timestamp": "2019-07-11 18:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.88
+ },
+ {
+   "utc_timestamp": "2019-07-11 19:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.88
+ },
+ {
+   "utc_timestamp": "2019-07-11 20:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.88
+ },
+ {
+   "utc_timestamp": "2019-07-11 21:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.88
+ },
+ {
+   "utc_timestamp": "2019-07-11 22:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.88
+ },
+ {
+   "utc_timestamp": "2019-07-11 23:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.88
+ },
+ {
+   "utc_timestamp": "2019-07-12 00:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.83
+ },
+ {
+   "utc_timestamp": "2019-07-12 01:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.83
+ },
+ {
+   "utc_timestamp": "2019-07-12 02:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.83
+ },
+ {
+   "utc_timestamp": "2019-07-12 03:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.83
+ },
+ {
+   "utc_timestamp": "2019-07-12 04:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.83
+ },
+ {
+   "utc_timestamp": "2019-07-12 05:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.83
+ },
+ {
+   "utc_timestamp": "2019-07-12 06:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.83
+ },
+ {
+   "utc_timestamp": "2019-07-12 07:00:00+00:00",
+   "solar_ws": 29.245,
+   "solar_bom": 14.83
+ },
+ {
+   "utc_timestamp": "2019-07-12 08:00:00+00:00",
+   "solar_ws": 393.11,
+   "solar_bom": 14.83
+ },
+ {
+   "utc_timestamp": "2019-07-12 09:00:00+00:00",
+   "solar_ws": 529.07,
+   "solar_bom": 14.83
+ },
+ {
+   "utc_timestamp": "2019-07-12 10:00:00+00:00",
+   "solar_ws": 600.57,
+   "solar_bom": 14.83
+ },
+ {
+   "utc_timestamp": "2019-07-12 11:00:00+00:00",
+   "solar_ws": 602.34,
+   "solar_bom": 14.83
+ },
+ {
+   "utc_timestamp": "2019-07-12 12:00:00+00:00",
+   "solar_ws": 532.85,
+   "solar_bom": 14.83
+ },
+ {
+   "utc_timestamp": "2019-07-12 13:00:00+00:00",
+   "solar_ws": 392.55,
+   "solar_bom": 14.83
+ },
+ {
+   "utc_timestamp": "2019-07-12 14:00:00+00:00",
+   "solar_ws": 257.81,
+   "solar_bom": 14.83
+ },
+ {
+   "utc_timestamp": "2019-07-12 15:00:00+00:00",
+   "solar_ws": 193.77,
+   "solar_bom": 14.83
+ },
+ {
+   "utc_timestamp": "2019-07-12 16:00:00+00:00",
+   "solar_ws": 66.88,
+   "solar_bom": 14.83
+ },
+ {
+   "utc_timestamp": "2019-07-12 17:00:00+00:00",
+   "solar_ws": 7.96,
+   "solar_bom": 14.83
+ },
+ {
+   "utc_timestamp": "2019-07-12 18:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.83
+ },
+ {
+   "utc_timestamp": "2019-07-12 19:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.83
+ },
+ {
+   "utc_timestamp": "2019-07-12 20:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.83
+ },
+ {
+   "utc_timestamp": "2019-07-12 21:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.83
+ },
+ {
+   "utc_timestamp": "2019-07-12 22:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.83
+ },
+ {
+   "utc_timestamp": "2019-07-12 23:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.83
+ },
+ {
+   "utc_timestamp": "2019-07-13 00:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.99
+ },
+ {
+   "utc_timestamp": "2019-07-13 01:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.99
+ },
+ {
+   "utc_timestamp": "2019-07-13 02:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.99
+ },
+ {
+   "utc_timestamp": "2019-07-13 03:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.99
+ },
+ {
+   "utc_timestamp": "2019-07-13 04:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.99
+ },
+ {
+   "utc_timestamp": "2019-07-13 05:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.99
+ },
+ {
+   "utc_timestamp": "2019-07-13 06:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.99
+ },
+ {
+   "utc_timestamp": "2019-07-13 07:00:00+00:00",
+   "solar_ws": 42.985,
+   "solar_bom": 14.99
+ },
+ {
+   "utc_timestamp": "2019-07-13 08:00:00+00:00",
+   "solar_ws": 379.875,
+   "solar_bom": 14.99
+ },
+ {
+   "utc_timestamp": "2019-07-13 09:00:00+00:00",
+   "solar_ws": 544.87,
+   "solar_bom": 14.99
+ },
+ {
+   "utc_timestamp": "2019-07-13 10:00:00+00:00",
+   "solar_ws": 598.94,
+   "solar_bom": 14.99
+ },
+ {
+   "utc_timestamp": "2019-07-13 11:00:00+00:00",
+   "solar_ws": 485.24,
+   "solar_bom": 14.99
+ },
+ {
+   "utc_timestamp": "2019-07-13 12:00:00+00:00",
+   "solar_ws": 513.65,
+   "solar_bom": 14.99
+ },
+ {
+   "utc_timestamp": "2019-07-13 13:00:00+00:00",
+   "solar_ws": 390.195,
+   "solar_bom": 14.99
+ },
+ {
+   "utc_timestamp": "2019-07-13 14:00:00+00:00",
+   "solar_ws": 263.99,
+   "solar_bom": 14.99
+ },
+ {
+   "utc_timestamp": "2019-07-13 15:00:00+00:00",
+   "solar_ws": 187.76,
+   "solar_bom": 14.99
+ },
+ {
+   "utc_timestamp": "2019-07-13 16:00:00+00:00",
+   "solar_ws": 67.44,
+   "solar_bom": 14.99
+ },
+ {
+   "utc_timestamp": "2019-07-13 17:00:00+00:00",
+   "solar_ws": 8.985,
+   "solar_bom": 14.99
+ },
+ {
+   "utc_timestamp": "2019-07-13 18:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.99
+ },
+ {
+   "utc_timestamp": "2019-07-13 19:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.99
+ },
+ {
+   "utc_timestamp": "2019-07-13 20:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.99
+ },
+ {
+   "utc_timestamp": "2019-07-13 21:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.99
+ },
+ {
+   "utc_timestamp": "2019-07-13 22:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.99
+ },
+ {
+   "utc_timestamp": "2019-07-13 23:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.99
+ },
+ {
+   "utc_timestamp": "2019-07-14 00:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 15.05
+ },
+ {
+   "utc_timestamp": "2019-07-14 01:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 15.05
+ },
+ {
+   "utc_timestamp": "2019-07-14 02:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 15.05
+ },
+ {
+   "utc_timestamp": "2019-07-14 03:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 15.05
+ },
+ {
+   "utc_timestamp": "2019-07-14 04:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 15.05
+ },
+ {
+   "utc_timestamp": "2019-07-14 05:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 15.05
+ },
+ {
+   "utc_timestamp": "2019-07-14 06:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 15.05
+ },
+ {
+   "utc_timestamp": "2019-07-14 07:00:00+00:00",
+   "solar_ws": 29.33,
+   "solar_bom": 15.05
+ },
+ {
+   "utc_timestamp": "2019-07-14 08:00:00+00:00",
+   "solar_ws": 396.82,
+   "solar_bom": 15.05
+ },
+ {
+   "utc_timestamp": "2019-07-14 09:00:00+00:00",
+   "solar_ws": 522.19,
+   "solar_bom": 15.05
+ },
+ {
+   "utc_timestamp": "2019-07-14 10:00:00+00:00",
+   "solar_ws": 578.87,
+   "solar_bom": 15.05
+ },
+ {
+   "utc_timestamp": "2019-07-14 11:00:00+00:00",
+   "solar_ws": 584.42,
+   "solar_bom": 15.05
+ },
+ {
+   "utc_timestamp": "2019-07-14 12:00:00+00:00",
+   "solar_ws": 526.605,
+   "solar_bom": 15.05
+ },
+ {
+   "utc_timestamp": "2019-07-14 13:00:00+00:00",
+   "solar_ws": 383.87,
+   "solar_bom": 15.05
+ },
+ {
+   "utc_timestamp": "2019-07-14 14:00:00+00:00",
+   "solar_ws": 261.94,
+   "solar_bom": 15.05
+ },
+ {
+   "utc_timestamp": "2019-07-14 15:00:00+00:00",
+   "solar_ws": 191.62,
+   "solar_bom": 15.05
+ },
+ {
+   "utc_timestamp": "2019-07-14 16:00:00+00:00",
+   "solar_ws": 62.23,
+   "solar_bom": 15.05
+ },
+ {
+   "utc_timestamp": "2019-07-14 17:00:00+00:00",
+   "solar_ws": 9.525,
+   "solar_bom": 15.05
+ },
+ {
+   "utc_timestamp": "2019-07-14 18:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 15.05
+ },
+ {
+   "utc_timestamp": "2019-07-14 19:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 15.05
+ },
+ {
+   "utc_timestamp": "2019-07-14 20:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 15.05
+ },
+ {
+   "utc_timestamp": "2019-07-14 21:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 15.05
+ },
+ {
+   "utc_timestamp": "2019-07-14 22:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 15.05
+ },
+ {
+   "utc_timestamp": "2019-07-14 23:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 15.05
+ },
+ {
+   "utc_timestamp": "2019-07-15 00:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 15.11
+ },
+ {
+   "utc_timestamp": "2019-07-15 01:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 15.11
+ },
+ {
+   "utc_timestamp": "2019-07-15 02:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 15.11
+ },
+ {
+   "utc_timestamp": "2019-07-15 03:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 15.11
+ },
+ {
+   "utc_timestamp": "2019-07-15 04:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 15.11
+ },
+ {
+   "utc_timestamp": "2019-07-15 05:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 15.11
+ },
+ {
+   "utc_timestamp": "2019-07-15 06:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 15.11
+ },
+ {
+   "utc_timestamp": "2019-07-15 07:00:00+00:00",
+   "solar_ws": 36.86,
+   "solar_bom": 15.11
+ },
+ {
+   "utc_timestamp": "2019-07-15 08:00:00+00:00",
+   "solar_ws": 395.05,
+   "solar_bom": 15.11
+ },
+ {
+   "utc_timestamp": "2019-07-15 09:00:00+00:00",
+   "solar_ws": 522.47,
+   "solar_bom": 15.11
+ },
+ {
+   "utc_timestamp": "2019-07-15 10:00:00+00:00",
+   "solar_ws": 576.09,
+   "solar_bom": 15.11
+ },
+ {
+   "utc_timestamp": "2019-07-15 11:00:00+00:00",
+   "solar_ws": 518.16,
+   "solar_bom": 15.11
+ },
+ {
+   "utc_timestamp": "2019-07-15 12:00:00+00:00",
+   "solar_ws": 522.015,
+   "solar_bom": 15.11
+ },
+ {
+   "utc_timestamp": "2019-07-15 13:00:00+00:00",
+   "solar_ws": 378.49,
+   "solar_bom": 15.11
+ },
+ {
+   "utc_timestamp": "2019-07-15 14:00:00+00:00",
+   "solar_ws": 264.41,
+   "solar_bom": 15.11
+ },
+ {
+   "utc_timestamp": "2019-07-15 15:00:00+00:00",
+   "solar_ws": 178.945,
+   "solar_bom": 15.11
+ },
+ {
+   "utc_timestamp": "2019-07-15 16:00:00+00:00",
+   "solar_ws": 60.84,
+   "solar_bom": 15.11
+ },
+ {
+   "utc_timestamp": "2019-07-15 17:00:00+00:00",
+   "solar_ws": 9.74,
+   "solar_bom": 15.11
+ },
+ {
+   "utc_timestamp": "2019-07-15 18:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 15.11
+ },
+ {
+   "utc_timestamp": "2019-07-15 19:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 15.11
+ },
+ {
+   "utc_timestamp": "2019-07-15 20:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 15.11
+ },
+ {
+   "utc_timestamp": "2019-07-15 21:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 15.11
+ },
+ {
+   "utc_timestamp": "2019-07-15 22:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 15.11
+ },
+ {
+   "utc_timestamp": "2019-07-15 23:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 15.11
+ },
+ {
+   "utc_timestamp": "2019-07-16 00:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 15.17
+ },
+ {
+   "utc_timestamp": "2019-07-16 01:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 15.17
+ },
+ {
+   "utc_timestamp": "2019-07-16 02:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 15.17
+ },
+ {
+   "utc_timestamp": "2019-07-16 03:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 15.17
+ },
+ {
+   "utc_timestamp": "2019-07-16 04:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 15.17
+ },
+ {
+   "utc_timestamp": "2019-07-16 05:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 15.17
+ },
+ {
+   "utc_timestamp": "2019-07-16 06:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 15.17
+ },
+ {
+   "utc_timestamp": "2019-07-16 07:00:00+00:00",
+   "solar_ws": 32.02,
+   "solar_bom": 15.17
+ },
+ {
+   "utc_timestamp": "2019-07-16 08:00:00+00:00",
+   "solar_ws": 393.42,
+   "solar_bom": 15.17
+ },
+ {
+   "utc_timestamp": "2019-07-16 09:00:00+00:00",
+   "solar_ws": 533.58,
+   "solar_bom": 15.17
+ },
+ {
+   "utc_timestamp": "2019-07-16 10:00:00+00:00",
+   "solar_ws": 597.79,
+   "solar_bom": 15.17
+ },
+ {
+   "utc_timestamp": "2019-07-16 11:00:00+00:00",
+   "solar_ws": 603.35,
+   "solar_bom": 15.17
+ },
+ {
+   "utc_timestamp": "2019-07-16 12:00:00+00:00",
+   "solar_ws": 528.005,
+   "solar_bom": 15.17
+ },
+ {
+   "utc_timestamp": "2019-07-16 13:00:00+00:00",
+   "solar_ws": 393.14,
+   "solar_bom": 15.17
+ },
+ {
+   "utc_timestamp": "2019-07-16 14:00:00+00:00",
+   "solar_ws": 287.5,
+   "solar_bom": 15.17
+ },
+ {
+   "utc_timestamp": "2019-07-16 15:00:00+00:00",
+   "solar_ws": 165.485,
+   "solar_bom": 15.17
+ },
+ {
+   "utc_timestamp": "2019-07-16 16:00:00+00:00",
+   "solar_ws": 62.93,
+   "solar_bom": 15.17
+ },
+ {
+   "utc_timestamp": "2019-07-16 17:00:00+00:00",
+   "solar_ws": 10.815,
+   "solar_bom": 15.17
+ },
+ {
+   "utc_timestamp": "2019-07-16 18:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 15.17
+ },
+ {
+   "utc_timestamp": "2019-07-16 19:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 15.17
+ },
+ {
+   "utc_timestamp": "2019-07-16 20:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 15.17
+ },
+ {
+   "utc_timestamp": "2019-07-16 21:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 15.17
+ },
+ {
+   "utc_timestamp": "2019-07-16 22:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 15.17
+ },
+ {
+   "utc_timestamp": "2019-07-16 23:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 15.17
+ },
+ {
+   "utc_timestamp": "2019-07-17 00:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 15.26
+ },
+ {
+   "utc_timestamp": "2019-07-17 01:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 15.26
+ },
+ {
+   "utc_timestamp": "2019-07-17 02:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 15.26
+ },
+ {
+   "utc_timestamp": "2019-07-17 03:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 15.26
+ },
+ {
+   "utc_timestamp": "2019-07-17 04:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 15.26
+ },
+ {
+   "utc_timestamp": "2019-07-17 05:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 15.26
+ },
+ {
+   "utc_timestamp": "2019-07-17 06:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 15.26
+ },
+ {
+   "utc_timestamp": "2019-07-17 07:00:00+00:00",
+   "solar_ws": 34.76,
+   "solar_bom": 15.26
+ },
+ {
+   "utc_timestamp": "2019-07-17 08:00:00+00:00",
+   "solar_ws": 386.51,
+   "solar_bom": 15.26
+ },
+ {
+   "utc_timestamp": "2019-07-17 09:00:00+00:00",
+   "solar_ws": 526.81,
+   "solar_bom": 15.26
+ },
+ {
+   "utc_timestamp": "2019-07-17 10:00:00+00:00",
+   "solar_ws": 587.74,
+   "solar_bom": 15.26
+ },
+ {
+   "utc_timestamp": "2019-07-17 11:00:00+00:00",
+   "solar_ws": 605.16,
+   "solar_bom": 15.26
+ },
+ {
+   "utc_timestamp": "2019-07-17 12:00:00+00:00",
+   "solar_ws": 535.87,
+   "solar_bom": 15.26
+ },
+ {
+   "utc_timestamp": "2019-07-17 13:00:00+00:00",
+   "solar_ws": 396.23,
+   "solar_bom": 15.26
+ },
+ {
+   "utc_timestamp": "2019-07-17 14:00:00+00:00",
+   "solar_ws": 297.36,
+   "solar_bom": 15.26
+ },
+ {
+   "utc_timestamp": "2019-07-17 15:00:00+00:00",
+   "solar_ws": 144.56,
+   "solar_bom": 15.26
+ },
+ {
+   "utc_timestamp": "2019-07-17 16:00:00+00:00",
+   "solar_ws": 64.84,
+   "solar_bom": 15.26
+ },
+ {
+   "utc_timestamp": "2019-07-17 17:00:00+00:00",
+   "solar_ws": 10.595,
+   "solar_bom": 15.26
+ },
+ {
+   "utc_timestamp": "2019-07-17 18:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 15.26
+ },
+ {
+   "utc_timestamp": "2019-07-17 19:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 15.26
+ },
+ {
+   "utc_timestamp": "2019-07-17 20:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 15.26
+ },
+ {
+   "utc_timestamp": "2019-07-17 21:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 15.26
+ },
+ {
+   "utc_timestamp": "2019-07-17 22:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 15.26
+ },
+ {
+   "utc_timestamp": "2019-07-17 23:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 15.26
+ },
+ {
+   "utc_timestamp": "2019-07-18 00:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.08
+ },
+ {
+   "utc_timestamp": "2019-07-18 01:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.08
+ },
+ {
+   "utc_timestamp": "2019-07-18 02:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.08
+ },
+ {
+   "utc_timestamp": "2019-07-18 03:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.08
+ },
+ {
+   "utc_timestamp": "2019-07-18 04:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.08
+ },
+ {
+   "utc_timestamp": "2019-07-18 05:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.08
+ },
+ {
+   "utc_timestamp": "2019-07-18 06:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.08
+ },
+ {
+   "utc_timestamp": "2019-07-18 07:00:00+00:00",
+   "solar_ws": 33.19,
+   "solar_bom": 14.08
+ },
+ {
+   "utc_timestamp": "2019-07-18 08:00:00+00:00",
+   "solar_ws": 410.06,
+   "solar_bom": 14.08
+ },
+ {
+   "utc_timestamp": "2019-07-18 09:00:00+00:00",
+   "solar_ws": 539.38,
+   "solar_bom": 14.08
+ },
+ {
+   "utc_timestamp": "2019-07-18 10:00:00+00:00",
+   "solar_ws": 606.65,
+   "solar_bom": 14.08
+ },
+ {
+   "utc_timestamp": "2019-07-18 11:00:00+00:00",
+   "solar_ws": 608.8,
+   "solar_bom": 14.08
+ },
+ {
+   "utc_timestamp": "2019-07-18 12:00:00+00:00",
+   "solar_ws": 555.965,
+   "solar_bom": 14.08
+ },
+ {
+   "utc_timestamp": "2019-07-18 13:00:00+00:00",
+   "solar_ws": 404.67,
+   "solar_bom": 14.08
+ },
+ {
+   "utc_timestamp": "2019-07-18 14:00:00+00:00",
+   "solar_ws": 297.95,
+   "solar_bom": 14.08
+ },
+ {
+   "utc_timestamp": "2019-07-18 15:00:00+00:00",
+   "solar_ws": 133.325,
+   "solar_bom": 14.08
+ },
+ {
+   "utc_timestamp": "2019-07-18 16:00:00+00:00",
+   "solar_ws": 69.18,
+   "solar_bom": 14.08
+ },
+ {
+   "utc_timestamp": "2019-07-18 17:00:00+00:00",
+   "solar_ws": 11.82,
+   "solar_bom": 14.08
+ },
+ {
+   "utc_timestamp": "2019-07-18 18:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.08
+ },
+ {
+   "utc_timestamp": "2019-07-18 19:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.08
+ },
+ {
+   "utc_timestamp": "2019-07-18 20:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.08
+ },
+ {
+   "utc_timestamp": "2019-07-18 21:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.08
+ },
+ {
+   "utc_timestamp": "2019-07-18 22:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.08
+ },
+ {
+   "utc_timestamp": "2019-07-18 23:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.08
+ },
+ {
+   "utc_timestamp": "2019-07-19 00:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.02
+ },
+ {
+   "utc_timestamp": "2019-07-19 01:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.02
+ },
+ {
+   "utc_timestamp": "2019-07-19 02:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.02
+ },
+ {
+   "utc_timestamp": "2019-07-19 03:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.02
+ },
+ {
+   "utc_timestamp": "2019-07-19 04:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.02
+ },
+ {
+   "utc_timestamp": "2019-07-19 05:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.02
+ },
+ {
+   "utc_timestamp": "2019-07-19 06:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.02
+ },
+ {
+   "utc_timestamp": "2019-07-19 07:00:00+00:00",
+   "solar_ws": 41.74,
+   "solar_bom": 14.02
+ },
+ {
+   "utc_timestamp": "2019-07-19 08:00:00+00:00",
+   "solar_ws": 366.09,
+   "solar_bom": 14.02
+ },
+ {
+   "utc_timestamp": "2019-07-19 09:00:00+00:00",
+   "solar_ws": 508.4,
+   "solar_bom": 14.02
+ },
+ {
+   "utc_timestamp": "2019-07-19 10:00:00+00:00",
+   "solar_ws": 582.7,
+   "solar_bom": 14.02
+ },
+ {
+   "utc_timestamp": "2019-07-19 11:00:00+00:00",
+   "solar_ws": 595.4,
+   "solar_bom": 14.02
+ },
+ {
+   "utc_timestamp": "2019-07-19 12:00:00+00:00",
+   "solar_ws": 532.89,
+   "solar_bom": 14.02
+ },
+ {
+   "utc_timestamp": "2019-07-19 13:00:00+00:00",
+   "solar_ws": 400.4,
+   "solar_bom": 14.02
+ },
+ {
+   "utc_timestamp": "2019-07-19 14:00:00+00:00",
+   "solar_ws": 317.49,
+   "solar_bom": 14.02
+ },
+ {
+   "utc_timestamp": "2019-07-19 15:00:00+00:00",
+   "solar_ws": 137.995,
+   "solar_bom": 14.02
+ },
+ {
+   "utc_timestamp": "2019-07-19 16:00:00+00:00",
+   "solar_ws": 68.68,
+   "solar_bom": 14.02
+ },
+ {
+   "utc_timestamp": "2019-07-19 17:00:00+00:00",
+   "solar_ws": 11.62,
+   "solar_bom": 14.02
+ },
+ {
+   "utc_timestamp": "2019-07-19 18:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.02
+ },
+ {
+   "utc_timestamp": "2019-07-19 19:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.02
+ },
+ {
+   "utc_timestamp": "2019-07-19 20:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.02
+ },
+ {
+   "utc_timestamp": "2019-07-19 21:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.02
+ },
+ {
+   "utc_timestamp": "2019-07-19 22:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.02
+ },
+ {
+   "utc_timestamp": "2019-07-19 23:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.02
+ },
+ {
+   "utc_timestamp": "2019-07-20 00:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.34
+ },
+ {
+   "utc_timestamp": "2019-07-20 01:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.34
+ },
+ {
+   "utc_timestamp": "2019-07-20 02:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.34
+ },
+ {
+   "utc_timestamp": "2019-07-20 03:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.34
+ },
+ {
+   "utc_timestamp": "2019-07-20 04:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.34
+ },
+ {
+   "utc_timestamp": "2019-07-20 05:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.34
+ },
+ {
+   "utc_timestamp": "2019-07-20 06:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.34
+ },
+ {
+   "utc_timestamp": "2019-07-20 07:00:00+00:00",
+   "solar_ws": 73.04,
+   "solar_bom": 14.34
+ },
+ {
+   "utc_timestamp": "2019-07-20 08:00:00+00:00",
+   "solar_ws": 364.81,
+   "solar_bom": 14.34
+ },
+ {
+   "utc_timestamp": "2019-07-20 09:00:00+00:00",
+   "solar_ws": 513.875,
+   "solar_bom": 14.34
+ },
+ {
+   "utc_timestamp": "2019-07-20 10:00:00+00:00",
+   "solar_ws": 586.175,
+   "solar_bom": 14.34
+ },
+ {
+   "utc_timestamp": "2019-07-20 11:00:00+00:00",
+   "solar_ws": 589.7,
+   "solar_bom": 14.34
+ },
+ {
+   "utc_timestamp": "2019-07-20 12:00:00+00:00",
+   "solar_ws": 537.21,
+   "solar_bom": 14.34
+ },
+ {
+   "utc_timestamp": "2019-07-20 13:00:00+00:00",
+   "solar_ws": 414.43,
+   "solar_bom": 14.34
+ },
+ {
+   "utc_timestamp": "2019-07-20 14:00:00+00:00",
+   "solar_ws": 349.63,
+   "solar_bom": 14.34
+ },
+ {
+   "utc_timestamp": "2019-07-20 15:00:00+00:00",
+   "solar_ws": 160.76,
+   "solar_bom": 14.34
+ },
+ {
+   "utc_timestamp": "2019-07-20 16:00:00+00:00",
+   "solar_ws": 120.13,
+   "solar_bom": 14.34
+ },
+ {
+   "utc_timestamp": "2019-07-20 17:00:00+00:00",
+   "solar_ws": 11.035,
+   "solar_bom": 14.34
+ },
+ {
+   "utc_timestamp": "2019-07-20 18:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.34
+ },
+ {
+   "utc_timestamp": "2019-07-20 19:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.34
+ },
+ {
+   "utc_timestamp": "2019-07-20 20:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.34
+ },
+ {
+   "utc_timestamp": "2019-07-20 21:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.34
+ },
+ {
+   "utc_timestamp": "2019-07-20 22:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.34
+ },
+ {
+   "utc_timestamp": "2019-07-20 23:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.34
+ },
+ {
+   "utc_timestamp": "2019-07-21 00:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 15.61
+ },
+ {
+   "utc_timestamp": "2019-07-21 01:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 15.61
+ },
+ {
+   "utc_timestamp": "2019-07-21 02:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 15.61
+ },
+ {
+   "utc_timestamp": "2019-07-21 03:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 15.61
+ },
+ {
+   "utc_timestamp": "2019-07-21 04:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 15.61
+ },
+ {
+   "utc_timestamp": "2019-07-21 05:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 15.61
+ },
+ {
+   "utc_timestamp": "2019-07-21 06:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 15.61
+ },
+ {
+   "utc_timestamp": "2019-07-21 07:00:00+00:00",
+   "solar_ws": 105.13,
+   "solar_bom": 15.61
+ },
+ {
+   "utc_timestamp": "2019-07-21 08:00:00+00:00",
+   "solar_ws": 372.795,
+   "solar_bom": 15.61
+ },
+ {
+   "utc_timestamp": "2019-07-21 09:00:00+00:00",
+   "solar_ws": 582.27,
+   "solar_bom": 15.61
+ },
+ {
+   "utc_timestamp": "2019-07-21 10:00:00+00:00",
+   "solar_ws": 584.35,
+   "solar_bom": 15.61
+ },
+ {
+   "utc_timestamp": "2019-07-21 11:00:00+00:00",
+   "solar_ws": 602.55,
+   "solar_bom": 15.61
+ },
+ {
+   "utc_timestamp": "2019-07-21 12:00:00+00:00",
+   "solar_ws": 564.18,
+   "solar_bom": 15.61
+ },
+ {
+   "utc_timestamp": "2019-07-21 13:00:00+00:00",
+   "solar_ws": 436.445,
+   "solar_bom": 15.61
+ },
+ {
+   "utc_timestamp": "2019-07-21 14:00:00+00:00",
+   "solar_ws": 295.45,
+   "solar_bom": 15.61
+ },
+ {
+   "utc_timestamp": "2019-07-21 15:00:00+00:00",
+   "solar_ws": 132.6,
+   "solar_bom": 15.61
+ },
+ {
+   "utc_timestamp": "2019-07-21 16:00:00+00:00",
+   "solar_ws": 70.09,
+   "solar_bom": 15.61
+ },
+ {
+   "utc_timestamp": "2019-07-21 17:00:00+00:00",
+   "solar_ws": 12.55,
+   "solar_bom": 15.61
+ },
+ {
+   "utc_timestamp": "2019-07-21 18:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 15.61
+ },
+ {
+   "utc_timestamp": "2019-07-21 19:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 15.61
+ },
+ {
+   "utc_timestamp": "2019-07-21 20:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 15.61
+ },
+ {
+   "utc_timestamp": "2019-07-21 21:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 15.61
+ },
+ {
+   "utc_timestamp": "2019-07-21 22:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 15.61
+ },
+ {
+   "utc_timestamp": "2019-07-21 23:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 15.61
+ },
+ {
+   "utc_timestamp": "2019-07-22 00:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 15.68
+ },
+ {
+   "utc_timestamp": "2019-07-22 01:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 15.68
+ },
+ {
+   "utc_timestamp": "2019-07-22 02:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 15.68
+ },
+ {
+   "utc_timestamp": "2019-07-22 03:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 15.68
+ },
+ {
+   "utc_timestamp": "2019-07-22 04:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 15.68
+ },
+ {
+   "utc_timestamp": "2019-07-22 05:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 15.68
+ },
+ {
+   "utc_timestamp": "2019-07-22 06:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 15.68
+ },
+ {
+   "utc_timestamp": "2019-07-22 07:00:00+00:00",
+   "solar_ws": 36.385,
+   "solar_bom": 15.68
+ },
+ {
+   "utc_timestamp": "2019-07-22 08:00:00+00:00",
+   "solar_ws": 469.02,
+   "solar_bom": 15.68
+ },
+ {
+   "utc_timestamp": "2019-07-22 09:00:00+00:00",
+   "solar_ws": 242.32,
+   "solar_bom": 15.68
+ },
+ {
+   "utc_timestamp": "2019-07-22 10:00:00+00:00",
+   "solar_ws": 594.63,
+   "solar_bom": 15.68
+ },
+ {
+   "utc_timestamp": "2019-07-22 11:00:00+00:00",
+   "solar_ws": 625.505,
+   "solar_bom": 15.68
+ },
+ {
+   "utc_timestamp": "2019-07-22 12:00:00+00:00",
+   "solar_ws": 571.16,
+   "solar_bom": 15.68
+ },
+ {
+   "utc_timestamp": "2019-07-22 13:00:00+00:00",
+   "solar_ws": 426.03,
+   "solar_bom": 15.68
+ },
+ {
+   "utc_timestamp": "2019-07-22 14:00:00+00:00",
+   "solar_ws": 312.11,
+   "solar_bom": 15.68
+ },
+ {
+   "utc_timestamp": "2019-07-22 15:00:00+00:00",
+   "solar_ws": 138.205,
+   "solar_bom": 15.68
+ },
+ {
+   "utc_timestamp": "2019-07-22 16:00:00+00:00",
+   "solar_ws": 71.48,
+   "solar_bom": 15.68
+ },
+ {
+   "utc_timestamp": "2019-07-22 17:00:00+00:00",
+   "solar_ws": 11.28,
+   "solar_bom": 15.68
+ },
+ {
+   "utc_timestamp": "2019-07-22 18:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 15.68
+ },
+ {
+   "utc_timestamp": "2019-07-22 19:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 15.68
+ },
+ {
+   "utc_timestamp": "2019-07-22 20:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 15.68
+ },
+ {
+   "utc_timestamp": "2019-07-22 21:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 15.68
+ },
+ {
+   "utc_timestamp": "2019-07-22 22:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 15.68
+ },
+ {
+   "utc_timestamp": "2019-07-22 23:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 15.68
+ },
+ {
+   "utc_timestamp": "2019-07-23 00:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 15.11
+ },
+ {
+   "utc_timestamp": "2019-07-23 01:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 15.11
+ },
+ {
+   "utc_timestamp": "2019-07-23 02:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 15.11
+ },
+ {
+   "utc_timestamp": "2019-07-23 03:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 15.11
+ },
+ {
+   "utc_timestamp": "2019-07-23 04:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 15.11
+ },
+ {
+   "utc_timestamp": "2019-07-23 05:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 15.11
+ },
+ {
+   "utc_timestamp": "2019-07-23 06:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 15.11
+ },
+ {
+   "utc_timestamp": "2019-07-23 07:00:00+00:00",
+   "solar_ws": 111.375,
+   "solar_bom": 15.11
+ },
+ {
+   "utc_timestamp": "2019-07-23 08:00:00+00:00",
+   "solar_ws": 359.37,
+   "solar_bom": 15.11
+ },
+ {
+   "utc_timestamp": "2019-07-23 09:00:00+00:00",
+   "solar_ws": 525.215,
+   "solar_bom": 15.11
+ },
+ {
+   "utc_timestamp": "2019-07-23 10:00:00+00:00",
+   "solar_ws": 607.69,
+   "solar_bom": 15.11
+ },
+ {
+   "utc_timestamp": "2019-07-23 11:00:00+00:00",
+   "solar_ws": 613.75,
+   "solar_bom": 15.11
+ },
+ {
+   "utc_timestamp": "2019-07-23 12:00:00+00:00",
+   "solar_ws": 587.76,
+   "solar_bom": 15.11
+ },
+ {
+   "utc_timestamp": "2019-07-23 13:00:00+00:00",
+   "solar_ws": 446.52,
+   "solar_bom": 15.11
+ },
+ {
+   "utc_timestamp": "2019-07-23 14:00:00+00:00",
+   "solar_ws": 301.445,
+   "solar_bom": 15.11
+ },
+ {
+   "utc_timestamp": "2019-07-23 15:00:00+00:00",
+   "solar_ws": 139.925,
+   "solar_bom": 15.11
+ },
+ {
+   "utc_timestamp": "2019-07-23 16:00:00+00:00",
+   "solar_ws": 71.37,
+   "solar_bom": 15.11
+ },
+ {
+   "utc_timestamp": "2019-07-23 17:00:00+00:00",
+   "solar_ws": 16.61,
+   "solar_bom": 15.11
+ },
+ {
+   "utc_timestamp": "2019-07-23 18:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 15.11
+ },
+ {
+   "utc_timestamp": "2019-07-23 19:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 15.11
+ },
+ {
+   "utc_timestamp": "2019-07-23 20:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 15.11
+ },
+ {
+   "utc_timestamp": "2019-07-23 21:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 15.11
+ },
+ {
+   "utc_timestamp": "2019-07-23 22:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 15.11
+ },
+ {
+   "utc_timestamp": "2019-07-23 23:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 15.11
+ },
+ {
+   "utc_timestamp": "2019-07-24 00:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 11.95
+ },
+ {
+   "utc_timestamp": "2019-07-24 01:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 11.95
+ },
+ {
+   "utc_timestamp": "2019-07-24 02:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 11.95
+ },
+ {
+   "utc_timestamp": "2019-07-24 03:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 11.95
+ },
+ {
+   "utc_timestamp": "2019-07-24 04:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 11.95
+ },
+ {
+   "utc_timestamp": "2019-07-24 05:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 11.95
+ },
+ {
+   "utc_timestamp": "2019-07-24 06:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 11.95
+ },
+ {
+   "utc_timestamp": "2019-07-24 07:00:00+00:00",
+   "solar_ws": 151.3,
+   "solar_bom": 11.95
+ },
+ {
+   "utc_timestamp": "2019-07-24 08:00:00+00:00",
+   "solar_ws": 393.335,
+   "solar_bom": 11.95
+ },
+ {
+   "utc_timestamp": "2019-07-24 09:00:00+00:00",
+   "solar_ws": 530.65,
+   "solar_bom": 11.95
+ },
+ {
+   "utc_timestamp": "2019-07-24 10:00:00+00:00",
+   "solar_ws": 594.705,
+   "solar_bom": 11.95
+ },
+ {
+   "utc_timestamp": "2019-07-24 11:00:00+00:00",
+   "solar_ws": 631.31,
+   "solar_bom": 11.95
+ },
+ {
+   "utc_timestamp": "2019-07-24 12:00:00+00:00",
+   "solar_ws": 597.27,
+   "solar_bom": 11.95
+ },
+ {
+   "utc_timestamp": "2019-07-24 13:00:00+00:00",
+   "solar_ws": 447.315,
+   "solar_bom": 11.95
+ },
+ {
+   "utc_timestamp": "2019-07-24 14:00:00+00:00",
+   "solar_ws": 293.475,
+   "solar_bom": 11.95
+ },
+ {
+   "utc_timestamp": "2019-07-24 15:00:00+00:00",
+   "solar_ws": 141.52,
+   "solar_bom": 11.95
+ },
+ {
+   "utc_timestamp": "2019-07-24 16:00:00+00:00",
+   "solar_ws": 70.83,
+   "solar_bom": 11.95
+ },
+ {
+   "utc_timestamp": "2019-07-24 17:00:00+00:00",
+   "solar_ws": 17.91,
+   "solar_bom": 11.95
+ },
+ {
+   "utc_timestamp": "2019-07-24 18:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 11.95
+ },
+ {
+   "utc_timestamp": "2019-07-24 19:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 11.95
+ },
+ {
+   "utc_timestamp": "2019-07-24 20:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 11.95
+ },
+ {
+   "utc_timestamp": "2019-07-24 21:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 11.95
+ },
+ {
+   "utc_timestamp": "2019-07-24 22:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 11.95
+ },
+ {
+   "utc_timestamp": "2019-07-24 23:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 11.95
+ },
+ {
+   "utc_timestamp": "2019-07-25 00:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 15.9
+ },
+ {
+   "utc_timestamp": "2019-07-25 01:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 15.9
+ },
+ {
+   "utc_timestamp": "2019-07-25 02:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 15.9
+ },
+ {
+   "utc_timestamp": "2019-07-25 03:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 15.9
+ },
+ {
+   "utc_timestamp": "2019-07-25 04:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 15.9
+ },
+ {
+   "utc_timestamp": "2019-07-25 05:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 15.9
+ },
+ {
+   "utc_timestamp": "2019-07-25 06:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 15.9
+ },
+ {
+   "utc_timestamp": "2019-07-25 07:00:00+00:00",
+   "solar_ws": 111.36,
+   "solar_bom": 15.9
+ },
+ {
+   "utc_timestamp": "2019-07-25 08:00:00+00:00",
+   "solar_ws": 110.25,
+   "solar_bom": 15.9
+ },
+ {
+   "utc_timestamp": "2019-07-25 09:00:00+00:00",
+   "solar_ws": 524.71,
+   "solar_bom": 15.9
+ },
+ {
+   "utc_timestamp": "2019-07-25 10:00:00+00:00",
+   "solar_ws": 614.72,
+   "solar_bom": 15.9
+ },
+ {
+   "utc_timestamp": "2019-07-25 11:00:00+00:00",
+   "solar_ws": 621.215,
+   "solar_bom": 15.9
+ },
+ {
+   "utc_timestamp": "2019-07-25 12:00:00+00:00",
+   "solar_ws": 610.71,
+   "solar_bom": 15.9
+ },
+ {
+   "utc_timestamp": "2019-07-25 13:00:00+00:00",
+   "solar_ws": 566.015,
+   "solar_bom": 15.9
+ },
+ {
+   "utc_timestamp": "2019-07-25 14:00:00+00:00",
+   "solar_ws": 390.75,
+   "solar_bom": 15.9
+ },
+ {
+   "utc_timestamp": "2019-07-25 15:00:00+00:00",
+   "solar_ws": 98.06,
+   "solar_bom": 15.9
+ },
+ {
+   "utc_timestamp": "2019-07-25 16:00:00+00:00",
+   "solar_ws": 61.19,
+   "solar_bom": 15.9
+ },
+ {
+   "utc_timestamp": "2019-07-25 17:00:00+00:00",
+   "solar_ws": 12.6,
+   "solar_bom": 15.9
+ },
+ {
+   "utc_timestamp": "2019-07-25 18:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 15.9
+ },
+ {
+   "utc_timestamp": "2019-07-25 19:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 15.9
+ },
+ {
+   "utc_timestamp": "2019-07-25 20:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 15.9
+ },
+ {
+   "utc_timestamp": "2019-07-25 21:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 15.9
+ },
+ {
+   "utc_timestamp": "2019-07-25 22:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 15.9
+ },
+ {
+   "utc_timestamp": "2019-07-25 23:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 15.9
+ },
+ {
+   "utc_timestamp": "2019-07-26 00:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.24
+ },
+ {
+   "utc_timestamp": "2019-07-26 01:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.24
+ },
+ {
+   "utc_timestamp": "2019-07-26 02:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.24
+ },
+ {
+   "utc_timestamp": "2019-07-26 03:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.24
+ },
+ {
+   "utc_timestamp": "2019-07-26 04:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.24
+ },
+ {
+   "utc_timestamp": "2019-07-26 05:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.24
+ },
+ {
+   "utc_timestamp": "2019-07-26 06:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.24
+ },
+ {
+   "utc_timestamp": "2019-07-26 07:00:00+00:00",
+   "solar_ws": 117.505,
+   "solar_bom": 14.24
+ },
+ {
+   "utc_timestamp": "2019-07-26 08:00:00+00:00",
+   "solar_ws": 392.66,
+   "solar_bom": 14.24
+ },
+ {
+   "utc_timestamp": "2019-07-26 09:00:00+00:00",
+   "solar_ws": 366.105,
+   "solar_bom": 14.24
+ },
+ {
+   "utc_timestamp": "2019-07-26 10:00:00+00:00",
+   "solar_ws": 655.045,
+   "solar_bom": 14.24
+ },
+ {
+   "utc_timestamp": "2019-07-26 11:00:00+00:00",
+   "solar_ws": 606.51,
+   "solar_bom": 14.24
+ },
+ {
+   "utc_timestamp": "2019-07-26 12:00:00+00:00",
+   "solar_ws": 203.65,
+   "solar_bom": 14.24
+ },
+ {
+   "utc_timestamp": "2019-07-26 13:00:00+00:00",
+   "solar_ws": 163.505,
+   "solar_bom": 14.24
+ },
+ {
+   "utc_timestamp": "2019-07-26 14:00:00+00:00",
+   "solar_ws": 333.69,
+   "solar_bom": 14.24
+ },
+ {
+   "utc_timestamp": "2019-07-26 15:00:00+00:00",
+   "solar_ws": 116.835,
+   "solar_bom": 14.24
+ },
+ {
+   "utc_timestamp": "2019-07-26 16:00:00+00:00",
+   "solar_ws": 85,
+   "solar_bom": 14.24
+ },
+ {
+   "utc_timestamp": "2019-07-26 17:00:00+00:00",
+   "solar_ws": 17.61,
+   "solar_bom": 14.24
+ },
+ {
+   "utc_timestamp": "2019-07-26 18:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.24
+ },
+ {
+   "utc_timestamp": "2019-07-26 19:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.24
+ },
+ {
+   "utc_timestamp": "2019-07-26 20:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.24
+ },
+ {
+   "utc_timestamp": "2019-07-26 21:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.24
+ },
+ {
+   "utc_timestamp": "2019-07-26 22:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.24
+ },
+ {
+   "utc_timestamp": "2019-07-26 23:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 14.24
+ },
+ {
+   "utc_timestamp": "2019-07-27 00:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 11.58
+ },
+ {
+   "utc_timestamp": "2019-07-27 01:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 11.58
+ },
+ {
+   "utc_timestamp": "2019-07-27 02:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 11.58
+ },
+ {
+   "utc_timestamp": "2019-07-27 03:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 11.58
+ },
+ {
+   "utc_timestamp": "2019-07-27 04:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 11.58
+ },
+ {
+   "utc_timestamp": "2019-07-27 05:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 11.58
+ },
+ {
+   "utc_timestamp": "2019-07-27 06:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 11.58
+ },
+ {
+   "utc_timestamp": "2019-07-27 07:00:00+00:00",
+   "solar_ws": 64.925,
+   "solar_bom": 11.58
+ },
+ {
+   "utc_timestamp": "2019-07-27 08:00:00+00:00",
+   "solar_ws": 394.29,
+   "solar_bom": 11.58
+ },
+ {
+   "utc_timestamp": "2019-07-27 09:00:00+00:00",
+   "solar_ws": 529.57,
+   "solar_bom": 11.58
+ },
+ {
+   "utc_timestamp": "2019-07-27 10:00:00+00:00",
+   "solar_ws": 614.29,
+   "solar_bom": 11.58
+ },
+ {
+   "utc_timestamp": "2019-07-27 11:00:00+00:00",
+   "solar_ws": 614.29,
+   "solar_bom": 11.58
+ },
+ {
+   "utc_timestamp": "2019-07-27 12:00:00+00:00",
+   "solar_ws": 599.665,
+   "solar_bom": 11.58
+ },
+ {
+   "utc_timestamp": "2019-07-27 13:00:00+00:00",
+   "solar_ws": 483.73,
+   "solar_bom": 11.58
+ },
+ {
+   "utc_timestamp": "2019-07-27 14:00:00+00:00",
+   "solar_ws": 296.39,
+   "solar_bom": 11.58
+ },
+ {
+   "utc_timestamp": "2019-07-27 15:00:00+00:00",
+   "solar_ws": 103.635,
+   "solar_bom": 11.58
+ },
+ {
+   "utc_timestamp": "2019-07-27 16:00:00+00:00",
+   "solar_ws": 89.17,
+   "solar_bom": 11.58
+ },
+ {
+   "utc_timestamp": "2019-07-27 17:00:00+00:00",
+   "solar_ws": 19.61,
+   "solar_bom": 11.58
+ },
+ {
+   "utc_timestamp": "2019-07-27 18:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 11.58
+ },
+ {
+   "utc_timestamp": "2019-07-27 19:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 11.58
+ },
+ {
+   "utc_timestamp": "2019-07-27 20:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 11.58
+ },
+ {
+   "utc_timestamp": "2019-07-27 21:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 11.58
+ },
+ {
+   "utc_timestamp": "2019-07-27 22:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 11.58
+ },
+ {
+   "utc_timestamp": "2019-07-27 23:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 11.58
+ },
+ {
+   "utc_timestamp": "2019-07-28 00:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 12.15
+ },
+ {
+   "utc_timestamp": "2019-07-28 01:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 12.15
+ },
+ {
+   "utc_timestamp": "2019-07-28 02:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 12.15
+ },
+ {
+   "utc_timestamp": "2019-07-28 03:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 12.15
+ },
+ {
+   "utc_timestamp": "2019-07-28 04:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 12.15
+ },
+ {
+   "utc_timestamp": "2019-07-28 05:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 12.15
+ },
+ {
+   "utc_timestamp": "2019-07-28 06:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 12.15
+ },
+ {
+   "utc_timestamp": "2019-07-28 07:00:00+00:00",
+   "solar_ws": 128.57,
+   "solar_bom": 12.15
+ },
+ {
+   "utc_timestamp": "2019-07-28 08:00:00+00:00",
+   "solar_ws": 433.11,
+   "solar_bom": 12.15
+ },
+ {
+   "utc_timestamp": "2019-07-28 09:00:00+00:00",
+   "solar_ws": 537.33,
+   "solar_bom": 12.15
+ },
+ {
+   "utc_timestamp": "2019-07-28 10:00:00+00:00",
+   "solar_ws": 617.085,
+   "solar_bom": 12.15
+ },
+ {
+   "utc_timestamp": "2019-07-28 11:00:00+00:00",
+   "solar_ws": 481.52,
+   "solar_bom": 12.15
+ },
+ {
+   "utc_timestamp": "2019-07-28 12:00:00+00:00",
+   "solar_ws": 705.34,
+   "solar_bom": 12.15
+ },
+ {
+   "utc_timestamp": "2019-07-28 13:00:00+00:00",
+   "solar_ws": 521.5,
+   "solar_bom": 12.15
+ },
+ {
+   "utc_timestamp": "2019-07-28 14:00:00+00:00",
+   "solar_ws": 116.75,
+   "solar_bom": 12.15
+ },
+ {
+   "utc_timestamp": "2019-07-28 15:00:00+00:00",
+   "solar_ws": 216.62,
+   "solar_bom": 12.15
+ },
+ {
+   "utc_timestamp": "2019-07-28 16:00:00+00:00",
+   "solar_ws": 43.26,
+   "solar_bom": 12.15
+ },
+ {
+   "utc_timestamp": "2019-07-28 17:00:00+00:00",
+   "solar_ws": 12.6,
+   "solar_bom": 12.15
+ },
+ {
+   "utc_timestamp": "2019-07-28 18:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 12.15
+ },
+ {
+   "utc_timestamp": "2019-07-28 19:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 12.15
+ },
+ {
+   "utc_timestamp": "2019-07-28 20:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 12.15
+ },
+ {
+   "utc_timestamp": "2019-07-28 21:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 12.15
+ },
+ {
+   "utc_timestamp": "2019-07-28 22:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 12.15
+ },
+ {
+   "utc_timestamp": "2019-07-28 23:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 12.15
+ },
+ {
+   "utc_timestamp": "2019-07-29 00:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 15.96
+ },
+ {
+   "utc_timestamp": "2019-07-29 01:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 15.96
+ },
+ {
+   "utc_timestamp": "2019-07-29 02:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 15.96
+ },
+ {
+   "utc_timestamp": "2019-07-29 03:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 15.96
+ },
+ {
+   "utc_timestamp": "2019-07-29 04:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 15.96
+ },
+ {
+   "utc_timestamp": "2019-07-29 05:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 15.96
+ },
+ {
+   "utc_timestamp": "2019-07-29 06:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 15.96
+ },
+ {
+   "utc_timestamp": "2019-07-29 07:00:00+00:00",
+   "solar_ws": 126.955,
+   "solar_bom": 15.96
+ },
+ {
+   "utc_timestamp": "2019-07-29 08:00:00+00:00",
+   "solar_ws": 385.61,
+   "solar_bom": 15.96
+ },
+ {
+   "utc_timestamp": "2019-07-29 09:00:00+00:00",
+   "solar_ws": 536.19,
+   "solar_bom": 15.96
+ },
+ {
+   "utc_timestamp": "2019-07-29 10:00:00+00:00",
+   "solar_ws": 605.07,
+   "solar_bom": 15.96
+ },
+ {
+   "utc_timestamp": "2019-07-29 11:00:00+00:00",
+   "solar_ws": 628.91,
+   "solar_bom": 15.96
+ },
+ {
+   "utc_timestamp": "2019-07-29 12:00:00+00:00",
+   "solar_ws": 114.94,
+   "solar_bom": 15.96
+ },
+ {
+   "utc_timestamp": "2019-07-29 13:00:00+00:00",
+   "solar_ws": 468.47,
+   "solar_bom": 15.96
+ },
+ {
+   "utc_timestamp": "2019-07-29 14:00:00+00:00",
+   "solar_ws": 145.36,
+   "solar_bom": 15.96
+ },
+ {
+   "utc_timestamp": "2019-07-29 15:00:00+00:00",
+   "solar_ws": 162.03,
+   "solar_bom": 15.96
+ },
+ {
+   "utc_timestamp": "2019-07-29 16:00:00+00:00",
+   "solar_ws": 82.71,
+   "solar_bom": 15.96
+ },
+ {
+   "utc_timestamp": "2019-07-29 17:00:00+00:00",
+   "solar_ws": 19.3,
+   "solar_bom": 15.96
+ },
+ {
+   "utc_timestamp": "2019-07-29 18:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 15.96
+ },
+ {
+   "utc_timestamp": "2019-07-29 19:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 15.96
+ },
+ {
+   "utc_timestamp": "2019-07-29 20:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 15.96
+ },
+ {
+   "utc_timestamp": "2019-07-29 21:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 15.96
+ },
+ {
+   "utc_timestamp": "2019-07-29 22:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 15.96
+ },
+ {
+   "utc_timestamp": "2019-07-29 23:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 15.96
+ },
+ {
+   "utc_timestamp": "2019-07-30 00:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 15.11
+ },
+ {
+   "utc_timestamp": "2019-07-30 01:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 15.11
+ },
+ {
+   "utc_timestamp": "2019-07-30 02:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 15.11
+ },
+ {
+   "utc_timestamp": "2019-07-30 03:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 15.11
+ },
+ {
+   "utc_timestamp": "2019-07-30 04:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 15.11
+ },
+ {
+   "utc_timestamp": "2019-07-30 05:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 15.11
+ },
+ {
+   "utc_timestamp": "2019-07-30 06:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 15.11
+ },
+ {
+   "utc_timestamp": "2019-07-30 07:00:00+00:00",
+   "solar_ws": 134.54,
+   "solar_bom": 15.11
+ },
+ {
+   "utc_timestamp": "2019-07-30 08:00:00+00:00",
+   "solar_ws": 387.05,
+   "solar_bom": 15.11
+ },
+ {
+   "utc_timestamp": "2019-07-30 09:00:00+00:00",
+   "solar_ws": 528.2,
+   "solar_bom": 15.11
+ },
+ {
+   "utc_timestamp": "2019-07-30 10:00:00+00:00",
+   "solar_ws": 604.44,
+   "solar_bom": 15.11
+ },
+ {
+   "utc_timestamp": "2019-07-30 11:00:00+00:00",
+   "solar_ws": 636.045,
+   "solar_bom": 15.11
+ },
+ {
+   "utc_timestamp": "2019-07-30 12:00:00+00:00",
+   "solar_ws": 598.055,
+   "solar_bom": 15.11
+ },
+ {
+   "utc_timestamp": "2019-07-30 13:00:00+00:00",
+   "solar_ws": 471.715,
+   "solar_bom": 15.11
+ },
+ {
+   "utc_timestamp": "2019-07-30 14:00:00+00:00",
+   "solar_ws": 307.99,
+   "solar_bom": 15.11
+ },
+ {
+   "utc_timestamp": "2019-07-30 15:00:00+00:00",
+   "solar_ws": 208.15,
+   "solar_bom": 15.11
+ },
+ {
+   "utc_timestamp": "2019-07-30 16:00:00+00:00",
+   "solar_ws": 109.26,
+   "solar_bom": 15.11
+ },
+ {
+   "utc_timestamp": "2019-07-30 17:00:00+00:00",
+   "solar_ws": 4.61,
+   "solar_bom": 15.11
+ },
+ {
+   "utc_timestamp": "2019-07-30 18:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 15.11
+ },
+ {
+   "utc_timestamp": "2019-07-30 19:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 15.11
+ },
+ {
+   "utc_timestamp": "2019-07-30 20:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 15.11
+ },
+ {
+   "utc_timestamp": "2019-07-30 21:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 15.11
+ },
+ {
+   "utc_timestamp": "2019-07-30 22:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 15.11
+ },
+ {
+   "utc_timestamp": "2019-07-30 23:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 15.11
+ },
+ {
+   "utc_timestamp": "2019-07-31 00:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 13.03
+ },
+ {
+   "utc_timestamp": "2019-07-31 01:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 13.03
+ },
+ {
+   "utc_timestamp": "2019-07-31 02:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 13.03
+ },
+ {
+   "utc_timestamp": "2019-07-31 03:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 13.03
+ },
+ {
+   "utc_timestamp": "2019-07-31 04:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 13.03
+ },
+ {
+   "utc_timestamp": "2019-07-31 05:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 13.03
+ },
+ {
+   "utc_timestamp": "2019-07-31 06:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 13.03
+ },
+ {
+   "utc_timestamp": "2019-07-31 07:00:00+00:00",
+   "solar_ws": 154.235,
+   "solar_bom": 13.03
+ },
+ {
+   "utc_timestamp": "2019-07-31 08:00:00+00:00",
+   "solar_ws": 413.63,
+   "solar_bom": 13.03
+ },
+ {
+   "utc_timestamp": "2019-07-31 09:00:00+00:00",
+   "solar_ws": 539.68,
+   "solar_bom": 13.03
+ },
+ {
+   "utc_timestamp": "2019-07-31 10:00:00+00:00",
+   "solar_ws": 613.245,
+   "solar_bom": 13.03
+ },
+ {
+   "utc_timestamp": "2019-07-31 11:00:00+00:00",
+   "solar_ws": 627.935,
+   "solar_bom": 13.03
+ },
+ {
+   "utc_timestamp": "2019-07-31 12:00:00+00:00",
+   "solar_ws": 647.77,
+   "solar_bom": 13.03
+ },
+ {
+   "utc_timestamp": "2019-07-31 13:00:00+00:00",
+   "solar_ws": 121.97,
+   "solar_bom": 13.03
+ },
+ {
+   "utc_timestamp": "2019-07-31 14:00:00+00:00",
+   "solar_ws": 133.085,
+   "solar_bom": 13.03
+ },
+ {
+   "utc_timestamp": "2019-07-31 15:00:00+00:00",
+   "solar_ws": 154.405,
+   "solar_bom": 13.03
+ },
+ {
+   "utc_timestamp": "2019-07-31 16:00:00+00:00",
+   "solar_ws": 109.38,
+   "solar_bom": 13.03
+ },
+ {
+   "utc_timestamp": "2019-07-31 17:00:00+00:00",
+   "solar_ws": 20.13,
+   "solar_bom": 13.03
+ },
+ {
+   "utc_timestamp": "2019-07-31 18:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 13.03
+ },
+ {
+   "utc_timestamp": "2019-07-31 19:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 13.03
+ },
+ {
+   "utc_timestamp": "2019-07-31 20:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 13.03
+ },
+ {
+   "utc_timestamp": "2019-07-31 21:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 13.03
+ },
+ {
+   "utc_timestamp": "2019-07-31 22:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 13.03
+ },
+ {
+   "utc_timestamp": "2019-07-31 23:00:00+00:00",
+   "solar_ws": 0,
+   "solar_bom": 13.03
+ }
+]
